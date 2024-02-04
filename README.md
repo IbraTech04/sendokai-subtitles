@@ -73,6 +73,8 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 ## How to Contribute
 Ready to help out? Great! Here's how you can get started:
 
+**This repository relies on GitFlow**. If you're not familiar with Git, I reccomend you read up on it before contributing. You can find a great guide [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+
 ### Step 1: Claim an Episode
 First, check the progress section above to see which episodes are available. If you see an episode that's not claimed, feel free to claim it by creating an `Issue` in this repository. This will let others know that you're working on it, and will prevent others from working on the same episode at the same time (causing merge conflicts). If someone else is working on the episode you want to work on, feel free to reach out to them and see if they need any help!
 
