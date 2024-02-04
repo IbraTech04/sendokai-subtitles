@@ -27,8 +27,8 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
     - You can find all the subtitles in the `s2` folder. There are two subfolders: `en` and `es` for English and Spanish respectively.
 - Translated the Spanish subtitles into English using Google Translate 
 - Manually corrected a few episodes
-    - It's worth noting that Ibra doesn't speak Spanish. Ibra uses the English translations along with his knowledge of the show from the Arabic version to correct the subtitles. 
-    - He also noticed the Spanish dub on YouTube uses the same lip-sync as the English dub, so he also tried to read their lips to get a better translation.
+    - It's worth noting that I don't speak Spanish. I uses the auto-generated English translations along with my knowledge of the plot from the Arabic version to correct the subtitles. 
+    - I noticed the Spanish dub on YouTube uses the same lip-sync as the English dub, so I try to read their lips to get a better translation.
 - Created subtitles for the one episode that had its subtitles disabled (Episode 50)
 
 **Legend:**
@@ -43,7 +43,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 
 **Season 2:**
 - Episode 27 - A Good Story: 🟥
-**Note** This episode is available in English; Making subtitles for it is trivial and not strictly necessary.
+    **Note** This episode is available in English; Making subtitles for it isn't strictly necessary, but would be cool to have!
 - Episode 28 - A New Adventure 🟥
 - Episode 29 - Danima 🟥
 - Episode 30 - Yakis 🟥
