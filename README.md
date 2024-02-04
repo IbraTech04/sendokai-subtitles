@@ -42,33 +42,34 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
     - No one has claimed this episode yet. If you're interested in helping out, feel free to claim it in the `Issues` tab!
 
 **Season 2:**
-- Episode 27 - A Good Story: 🟥
-    **Note** This episode is available in English; Making subtitles for it isn't strictly necessary, but would be cool to have!
-- Episode 28 - A New Adventure 🟥
-- Episode 29 - Danima 🟥
-- Episode 30 - Yakis 🟥
-- Episode 31 - Trust Us, Lon 🟥
-- Episode 32 - Kido the Destroyer 🟥
-- Episode 33 - Babysitter 🟥
-- Episode 34 - An Unbreakable Team 🟥
-- Episode 35 - Duo-Sen Lightning Bolt 🟥
-- Episode 36 - A Good Leader 🟥
-- Episode 37 - Uncertain Times 🟥
-- Episode 38 - I'll Never Forget You 🟥
-- Episode 39 - Stupid Sendokai 🟥
-- Episode 40 - The First Great Tournament 🟥
-- Episode 41 - The Norkingos 🟥
-- Episode 42 - A Hero For Masara 🟥
-- Episode 43 - You Are Alone 🟥
-- Episode 44 - Friends and Rivals 🟥
-- Episode 45 - May The Best Team Win 🟥
-- Episode 46 - Traitors 🟧
-- Episode 47 - The Twilight of the Hakuru 🟧
-- Episode 48 - The Hour of Truth 🟥
-- Episode 49 - The Power of the Baron 🟧
-- Episode 50 - The Great Zorn 🟧
-- Episode 51 - Rise of the Hakuru 🟥
-- Episode 52 - Something in Common 🟥
+- [🟥] Episode 27 - A Good Story
+    - **Note** This episode is available in English; Making subtitles for it isn't strictly necessary, but would be cool to have!
+- [🟥] Episode 28 - A New Adventure 
+- [🟥] Episode 29 - Danima 
+- [🟥] Episode 30 - Yakis 
+- [🟥] Episode 31 - Trust Us, Lon 
+- [🟥] Episode 32 - Kido the Destroyer 
+- [🟥] Episode 33 - Babysitter 
+- [🟥] Episode 34 - An Unbreakable Team 
+- [🟥] Episode 35 - Duo-Sen Lightning Bolt 
+- [🟥] Episode 36 - A Good Leader 
+- [🟥] Episode 37 - Uncertain Times 
+- [🟥] Episode 38 - I'll Never Forget You 
+- [🟥] Episode 39 - Stupid Sendokai 
+- [🟥] Episode 40 - The First Great Tournament 
+- [🟥] Episode 41 - The Norkingos 
+- [🟥] Episode 42 - A Hero For Masara 
+- [🟥] Episode 43 - You Are Alone 
+- [🟥] Episode 44 - Friends and Rivals 
+- [🟥] Episode 45 - May The Best Team Win 
+- [🟧] Episode 46 - Traitors 
+- [🟧] Episode 47 - The Twilight of the Hakuru 
+- [🟥] Episode 48 - The Hour of Truth 
+- [🟧] Episode 49 - The Power of the Baron 
+- [🟧] Episode 50 - The Great Zorn 
+- [🟥] Episode 51 - Rise of the Hakuru 
+- [🟥] Episode 52 - Something in Common
+
 
 ## How to Contribute
 Ready to help out? Great! Here's how you can get started:
