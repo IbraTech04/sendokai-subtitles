@@ -36,6 +36,8 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
     - This means that the subtitles for this particular episode are complete and ready to be used
 - 🟧 = Pending Review
     - This means that the subtitles for this particular episode are complete, but are pending review by the community. If you're interested in helping out, feel free to review the subtitles and make any necessary changes! Be sure to keep all conversations in their relevant `Issue`
+- 🟦 = Abandoned
+    - This means that the subtitles for this particular episode are incomplete, and the person working on them has abandoned the project. If you're interested in helping out, feel free to claim it in the `Issues` tab!
 - 🟨 = In Progress
     - Someone has claimed this episode and is currently working on it. Check the `Issues` tab to see who's working on it!
 - 🟥 = Not Started
@@ -57,7 +59,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - [🟥] Episode 38 - I'll Never Forget You 
 - [🟥] Episode 39 - Stupid Sendokai 
 - [🟥] Episode 40 - The First Great Tournament 
-- [🟥] Episode 41 - The Norkingos 
+- [🟧] Episode 41 - The Norkingos 
 - [🟥] Episode 42 - A Hero For Masara 
 - [🟥] Episode 43 - You Are Alone 
 - [🟥] Episode 44 - Friends and Rivals 
