@@ -70,7 +70,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - [🟧] Episode 49 - The Power of the Baron 
 - [🟧] Episode 50 - The Great Zorn 
 - [🟧] Episode 51 - Rise of the Hakuru 
-- [🟥] Episode 52 - Something in Common
+- [🟨] Episode 52 - Something in Common
 
 
 ## How to Contribute
