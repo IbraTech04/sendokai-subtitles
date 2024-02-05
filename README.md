@@ -34,7 +34,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 **Legend:**
 - 🟩 = Completed
     - This means that the subtitles for this particular episode are complete and ready to be used
-- 🟧 = Pending Review
+- 🟪 = Pending Review
     - This means that the subtitles for this particular episode are complete, but are pending review by the community. If you're interested in helping out, feel free to review the subtitles and make any necessary changes! Be sure to keep all conversations in their relevant `Issue`
 - 🟦 = Abandoned
     - This means that the subtitles for this particular episode are incomplete, and the person working on them has abandoned the project. If you're interested in helping out, feel free to claim it in the `Issues` tab!
@@ -59,17 +59,17 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - [🟥] Episode 38 - I'll Never Forget You 
 - [🟥] Episode 39 - Stupid Sendokai 
 - [🟥] Episode 40 - The First Great Tournament 
-- [🟧] Episode 41 - The Norkingos 
+- [🟪] Episode 41 - The Norkingos 
 - [🟥] Episode 42 - A Hero For Masara 
 - [🟥] Episode 43 - You Are Alone 
 - [🟥] Episode 44 - Friends and Rivals 
 - [🟥] Episode 45 - May The Best Team Win 
-- [🟧] Episode 46 - Traitors 
-- [🟧] Episode 47 - The Twilight of the Hakuru 
+- [🟪] Episode 46 - Traitors 
+- [🟪] Episode 47 - The Twilight of the Hakuru 
 - [🟥] Episode 48 - The Hour of Truth 
-- [🟧] Episode 49 - The Power of the Baron 
-- [🟧] Episode 50 - The Great Zorn 
-- [🟧] Episode 51 - Rise of the Hakuru 
+- [🟪] Episode 49 - The Power of the Baron 
+- [🟪] Episode 50 - The Great Zorn 
+- [🟪] Episode 51 - Rise of the Hakuru 
 - [🟨] Episode 52 - Something in Common
 
 
