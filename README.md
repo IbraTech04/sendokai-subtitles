@@ -43,14 +43,16 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - 🟥 = Not Started
     - No one has claimed this episode yet. If you're interested in helping out, feel free to claim it in the `Issues` tab!
 
+- \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle
+
+
 **Season 2:**
-- [🟥] Episode 27 - A Good Story
-    - **Note** This episode is available in English; Making subtitles for it isn't strictly necessary, but would be cool to have!
-- [🟥] Episode 28 - A New Adventure 
-- [🟥] Episode 29 - Danima 
-- [🟥] Episode 30 - Yakis 
-- [🟥] Episode 31 - Trust Us, Lon 
-- [🟥] Episode 32 - Kido the Destroyer 
+- [🟥] Episode 27 - A Good Story*
+- [🟥] Episode 28 - A New Adventure* 
+- [🟥] Episode 29 - Danima*
+- [🟥] Episode 30 - Yakis*
+- [🟥] Episode 31 - Trust Us, Lon*
+- [🟥] Episode 32 - Kido the Destroyer*
 - [🟥] Episode 33 - Babysitter 
 - [🟥] Episode 34 - An Unbreakable Team 
 - [🟥] Episode 35 - Duo-Sen Lightning Bolt 
