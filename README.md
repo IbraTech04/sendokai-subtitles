@@ -68,7 +68,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - [🟥] Episode 45 - May The Best Team Win 
 - [🟪] Episode 46 - Traitors 
 - [🟪] Episode 47 - The Twilight of the Hakuru 
-- [🟥] Episode 48 - The Hour of Truth 
+- [🟪] Episode 48 - The Hour of Truth 
 - [🟪] Episode 49 - The Power of the Baron 
 - [🟪] Episode 50 - The Great Zorn 
 - [🟪] Episode 51 - Rise of the Hakuru 
