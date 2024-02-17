@@ -65,7 +65,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - [🟥] Episode 42 - A Hero For Masara 
 - [🟥] Episode 43 - You Are Alone 
 - [🟥] Episode 44 - Friends and Rivals 
-- [🟨] Episode 45 - May The Best Team Win 
+- [🟪] Episode 45 - May The Best Team Win 
 - [🟪] Episode 46 - Traitors 
 - [🟪] Episode 47 - The Twilight of the Hakuru 
 - [🟪] Episode 48 - The Hour of Truth 
