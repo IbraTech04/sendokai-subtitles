@@ -49,7 +49,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 **Season 2:**
 - [🟩] Episode 27 - A Good Story*
 - [🟨] Episode 28 - A New Adventure* 
-- [🟨] Episode 29 - Danima*
+- [🟩] Episode 29 - Danima*
 - [🟨] Episode 30 - Yakis*
 - [🟥] Episode 31 - Trust Us, Lon*
 - [🟨] Episode 32 - Kido the Destroyer*
