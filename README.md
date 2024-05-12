@@ -19,17 +19,7 @@ This repository aims to rectify the above by doing the following
 - Hosting **only** the `.srt` subtitle files - The original issue with the burned-in subtitles was that they still contained the copyrighted material (i.e. the video itself). By hosting only the `.srt` files, we can avoid this issue entirely. The issue of copyright now falls onto the user choosing to download the `.srt` file and the video file, and not the repository itself
 
 ## Progress:
-Currently, we're focusing on the second season since it's the most saught after. Once we finish the second season, the first season can be done easily since it's already available in English.
-
-What [@IbraTech04](https://github.com/IbraTech04) has done so far:
-- Rip all (auto-generated, or manually generated where applicable) subtitles from the Spanish version of the show from YouTube and compiled them into `.srt` files. These are mostly here for reference and aren't strictly necissary for the project, but they're here if you want them. 
-    - You may choose to contribute to the Spanish version if you prefer, even that would be a great help since we could more accurately translate the Spanish version to English! 
-    - You can find all the subtitles in the `s2` folder. There are two subfolders: `en` and `es` for English and Spanish respectively.
-- Translated the Spanish subtitles into English using Google Translate 
-- Manually corrected a few episodes
-    - It's worth noting that I don't speak Spanish. I uses the auto-generated English translations along with my knowledge of the plot from the Arabic version to correct the subtitles. 
-    - I noticed the Spanish dub on YouTube uses the same lip-sync as the English dub, so I try to read their lips to get a better translation.
-- Created subtitles for the one episode that had its subtitles disabled (Episode 50)
+Currently, I've been focusing on the second season since it's the most saught after. Once the second season is finished, we can consider working on the first; Though since it's already been dubbed in English, it's not as high of a priority.
 
 **Legend:**
 - 🟩 = Completed
@@ -41,7 +31,7 @@ What [@IbraTech04](https://github.com/IbraTech04) has done so far:
 - 🟥 = Not Started
     - No one has claimed this episode yet. If you're interested in helping out, feel free to claim it in the `Issues` tab!
 
-- \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle
+- \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle. It's recommended to leave these episodes for last, as they're the easiest to subtitle.
 
 
 **Season 2:**
@@ -82,12 +72,16 @@ Ready to help out? Great! Here's how you can get started:
 First, check the progress section above to see which episodes are available. If you see an episode that's not claimed, feel free to claim it by creating an `Issue` in this repository. This will let others know that you're working on it, and will prevent others from working on the same episode at the same time (causing merge conflicts). If someone else is working on the episode you want to work on, feel free to reach out to them and see if they need any help!
 
 ### Step 2: Acquire the required resources
-You'll need to acquire the Spanish version of the episode you're working on. You can do this by downloading the episode from the [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions) using an online tool. 
+You'll need to acquire the Spanish version of the episode you're working on. You can do this by downloading the episode from the [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions) using an online tool, or even better! [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
-You'll also need a `.srt` editor. I personally reccomend [Subtitle Edit](https://www.nikse.dk/subtitleedit/), but you can use any `.srt` editor you like.
+You'll also need a `.srt` editor. I personally reccomend and use [Subtitle Edit](https://www.nikse.dk/subtitleedit/), but you can use any `.srt` editor you like.
 
 ### Step 3: Clone this repository
-You'll need to clone this repository to your local machine. You can do this by running the following command in your terminal, or using the GUI buttons on the GitHub website. If you really wanna get fancy, you can use [GitHub Desktop](https://desktop.github.com/) to clone the repository.
+You'll need to clone this repository to your local machine. You can do this by running the following command in your terminal, or using the GUI buttons on the GitHub website. If you really wanna get fancy, you can use [GitHub Desktop](https://desktop.github.com/) to clone the repository. If you know how to use Git, you can use the following command:
+
+```bash
+git clone github.com/ibratech04/sendokai-champions-subtitles
+```
 
 ### Step 4: Subtitle the Episode! 
 Once you're all setup, you can start subtitling the episode! You can do this by opening the `.srt` file for the episode you're working on in your `.srt` editor, loading in the episode, and adding the subtitles. Once you're done, save the file and move onto the next step.
