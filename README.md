@@ -6,18 +6,6 @@ An open-source repository aiming to be a collaborative effort to recreate Englis
 ## Premise 
 [Sendokai Champions](http://www.sendokaichampions.com/) (Known as *Defasio Champions Sendokai* in Spanish) is a Spanish animated series developed by Kotoc Productions and produced by RTVE, Planeta Junior, and Kotoc. Aired in 2013, the show was originally aired in Spanish, and later dubbed in English for airing on Cartoon Network. However, the English dub is now considered *Lost Media* after being taken down from their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), with no other Official hosting. Currently, only the Spanish version is available on their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions), and very few English-dubbed episodes are available on the internet - most of which are low-quality and incomplete. The entirety of Season 1 was archived and uploaded to a [YouTube Channel](https://www.youtube.com/@sendokaichampions7678), and only the first few episodes of season 2 can be found archived on websites like BilliBilli and KissCartoon.
 
-We *know* the English version exists *somewhere* since the [Arabic Version](https://www.arabic-toons.com/m7arbi-sendokai-1434722187-11112.html#sets) is based off the English version. 
-
-Many members of the Sendokai community have tried to create English subtitles for the show in the past (By downloading the Spanish version, chucking it into a video editor, and adding subtitles via burned-in text tools), however they were never completed due to either:
-- Lack of resources (Time, Money, etc.)
-- Copyright Takedowns (Remember, they're uploading basically the same episodes as the official channel; Fair use doesn't apply here)
-- Lack of motivation (The show is relatively obscure, and the community is small)
-
-This repository aims to rectify the above by doing the following
-
-- Creating a collaborative effort to create English subtitles for the show - With the community working together, there will always be someone to pick up the slack if someone else is busy
-- Hosting **only** the `.srt` subtitle files - The original issue with the burned-in subtitles was that they still contained the copyrighted material (i.e. the video itself). By hosting only the `.srt` files, we can avoid this issue entirely. The issue of copyright now falls onto the user choosing to download the `.srt` file and the video file, and not the repository itself
-
 ## Progress:
 Currently, I've been focusing on the second season since it's the most saught after. Once the second season is finished, we can consider working on the first; Though since it's already been dubbed in English, it's not as high of a priority.
 
@@ -32,7 +20,6 @@ Currently, I've been focusing on the second season since it's the most saught af
     - No one has claimed this episode yet. If you're interested in helping out, feel free to claim it in the `Issues` tab!
 
 - \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle. It's recommended to leave these episodes for last, as they're the easiest to subtitle.
-
 
 **Season 2:**
 - [🟩] Episode 27 - A Good Story*
