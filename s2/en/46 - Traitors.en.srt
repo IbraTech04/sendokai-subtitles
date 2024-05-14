@@ -1,5 +1,5 @@
 1
-00:01:11,200 --> 00:01:13,840
+00:01:11,451 --> 00:01:13,840
 Both teams are very even!
 
 2
@@ -7,7 +7,7 @@ Both teams are very even!
 May I?
 
 3
-00:01:16,800 --> 00:01:19,432
+00:01:17,233 --> 00:01:19,432
 Only if you promise not to complain
 
 4
@@ -66,9 +66,9 @@ be defeated by some lizards!
 What did you just call us?
 
 17
-00:02:36,280 --> 00:02:40,393
+00:02:36,809 --> 00:02:40,393
 Calm down, guys. Remember
-what happened with the Kredlers.
+what happened with the Credlers.
 
 18
 00:02:40,418 --> 00:02:45,280
@@ -78,18 +78,18 @@ and not get carried away by emotions
 19
 00:03:00,560 --> 00:03:04,920
 The Kiwun team is getting
-dangerously close to the Human Senrok
+dangerously close to the Human's Senrock
 
 20
-00:03:06,520 --> 00:03:09,080
-But what are you doing?  Stop them!
+00:03:06,785 --> 00:03:09,080
+What are you doing?  Stop them!
 
 21
 00:03:10,475 --> 00:03:11,951
 Zet-sen...
 
 22
-00:03:12,160 --> 00:03:14,319
+00:03:12,105 --> 00:03:14,319
 Tai-sen trail!
 
 23
@@ -106,7 +106,7 @@ Yay!
 
 26
 00:03:32,640 --> 00:03:34,280
-Damn
+Damn it!
 
 27
 00:03:34,700 --> 00:03:35,280
@@ -146,15 +146,15 @@ common? That Zack betrayed us!
 That's what unites us
 
 36
-00:03:59,780 --> 00:04:01,920
-Uncle, I don't see it
+00:04:00,278 --> 00:04:01,920
+Man, I don't see it
 
 37
 00:04:02,400 --> 00:04:05,018
 You're right Lon, I don't think it's...
 
 38
-00:04:05,043 --> 00:04:10,200
+00:04:05,043 --> 00:04:09,567
 Enough, it's not time to
 argue, but to obey your Hakuru
 
@@ -168,12 +168,12 @@ is preparing to Counterattack!
 Nero-Sen fusion
 
 41
-00:04:23,100 --> 00:04:25,915
+00:04:23,100 --> 00:04:26,152
 They're going to activate
 the Nero-sen fusion!
 
 42
-00:04:25,940 --> 00:04:29,800
+00:04:26,177 --> 00:04:29,800
 Us too! Quick, let's think of a common goal
 
 43
@@ -224,7 +224,7 @@ let you get away with it.
 Nero-sen fusion
 
 54
-00:05:50,940 --> 00:05:55,360
+00:05:51,094 --> 00:05:55,360
 How could it fail? What's
 more cool than gargling mucus?
 
@@ -255,12 +255,12 @@ Zack, because he is our friend
 You will feel what I tell you
 
 61
-00:06:42,400 --> 00:06:46,293
+00:06:42,984 --> 00:06:46,293
 Do you prefer a traitor to your own Hakuru?
 
 62
 00:06:47,039 --> 00:06:50,380
-Well, I'll win the fight ALONE.
+Well, I'll win the fight alone!
 
 63
 00:06:51,743 --> 00:06:54,311
@@ -273,10 +273,10 @@ human is going to face The Kiwuns alone.
 
 65
 00:07:01,220 --> 00:07:03,115
-Eh, but how did he do that?
+Hey! How did he do that?
 
 66
-00:07:03,140 --> 00:07:06,880
+00:07:03,555 --> 00:07:06,880
 He acquired our powers while
 we were doing the Nero-sen fusion
 
@@ -298,11 +298,11 @@ Kai for the Human team!
 Or at least... one Human
 
 71
-00:08:03,860 --> 00:08:07,268
+00:08:03,813 --> 00:08:07,268
 You have started a war that you cannot win
 
 72
-00:08:07,293 --> 00:08:11,933
+00:08:07,293 --> 00:08:11,895
 The truth is on our side, We will defeat
 Sidmodius
 
@@ -320,16 +320,16 @@ think Sidmodius is the key?
 Where is your smile now?
 
 76
-00:08:32,680 --> 00:08:33,460
+00:08:32,834 --> 00:08:33,896
 Enough
 
 77
-00:08:34,540 --> 00:08:38,893
+00:08:34,540 --> 00:08:38,892
 This is not Sendokai. We are
 not going to let you fight like this
 
 78
-00:08:38,917 --> 00:08:40,200
+00:08:39,349 --> 00:08:40,200
 Give us the Do
 
 79
@@ -345,7 +345,7 @@ I can't trust anyone!
 Lon, give us the Do
 
 82
-00:08:51,900 --> 00:08:52,740
+00:08:52,188 --> 00:08:53,028
 No!
 
 83
@@ -370,7 +370,7 @@ Oh No, He's Lost His Reason
 Lon, Stop!
 
 88
-00:09:32,855 --> 00:09:39,065
+00:09:33,158 --> 00:09:39,065
 You are like my father! Like my
 mother! And you, Chloe!
 
@@ -420,5 +420,6 @@ That's why it's impossible to defeat me
 
 99
 00:10:47,264 --> 00:10:53,150
-And that's why, Sister, Evil will reign again!
+And that's why, Sister,
+Evil will reign again!
 

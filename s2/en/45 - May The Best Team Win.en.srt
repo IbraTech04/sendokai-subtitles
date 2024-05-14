@@ -41,11 +41,11 @@ Ugh, what a mess
 This can't possibly get more complicated
 
 11
-00:01:15,080 --> 00:01:17,625
+00:01:15,017 --> 00:01:17,625
 Lon! What's up?
 
 12
-00:01:17,650 --> 00:01:20,679
+00:01:18,267 --> 00:01:20,679
 Sorry, I didn't mean to scare you
 
 13
@@ -66,11 +66,11 @@ the fight I realized something
 I-
 
 17
-00:01:33,604 --> 00:01:37,088
+00:01:33,604 --> 00:01:37,017
 I like you it's Chloe.  I like you a lot.
 
 18
-00:01:37,113 --> 00:01:42,411
+00:01:37,042 --> 00:01:42,411
 And, well. I was wondering
 if you feel the same
 
@@ -87,23 +87,23 @@ Hey, don't worry.
 It's no big deal
 
 22
-00:01:52,780 --> 00:01:55,557
+00:01:52,780 --> 00:01:55,470
 But it's still important to me
 
 23
-00:01:55,582 --> 00:01:57,679
+00:01:55,495 --> 00:01:57,627
 We're friends, right?
 
 24
-00:01:57,720 --> 00:01:58,720
+00:01:57,652 --> 00:01:58,619
 Yeah
 
 25
-00:01:58,745 --> 00:02:00,843
+00:01:58,644 --> 00:02:00,843
 If not, who's going to give you records?
 
 26
-00:02:01,560 --> 00:02:02,560
+00:02:01,525 --> 00:02:02,560
 That's true
 
 27
@@ -112,15 +112,15 @@ If Fenzy loans me her heavy metal albums,
 my head might explode
 
 28
-00:02:12,458 --> 00:02:14,840
+00:02:12,580 --> 00:02:15,070
 It's because of Zack, right?
 
 29
-00:02:14,865 --> 00:02:16,198
+00:02:15,095 --> 00:02:16,198
 You like him
 
 30
-00:02:22,310 --> 00:02:26,445
+00:02:22,689 --> 00:02:25,510
 What? No no no it's not that!
 
 31
@@ -128,20 +128,20 @@ What? No no no it's not that!
 In the next battle,
 
 32
-00:02:41,205 --> 00:02:45,615
+00:02:41,205 --> 00:02:45,873
 the Baron Ragnaki and the
-fire masters will face each other!
+Masters of Fire will face each other!
 
 33
-00:02:45,640 --> 00:02:48,910
+00:02:45,898 --> 00:02:48,910
 There is no Baron Ragnaki.
 
 34
-00:02:48,910 --> 00:02:52,570
-You can't deceive, we know the truth
+00:02:48,910 --> 00:02:52,484
+You can't deceive us, we know the truth
 
 35
-00:02:52,570 --> 00:02:54,269
+00:02:52,509 --> 00:02:54,269
 The truth?
 
 36
@@ -176,7 +176,7 @@ Kai!
 
 43
 00:03:54,651 --> 00:03:56,066
-Yeah!!
+Yeah!
 
 44
 00:03:56,130 --> 00:03:56,960
@@ -203,7 +203,7 @@ The rivals are clearly superior!
 The audience can't help you win
 
 50
-00:04:38,660 --> 00:04:44,700
+00:04:39,038 --> 00:04:44,700
 They wont, but the energy I stole will
 
 51
@@ -220,11 +220,11 @@ He's going to use all the
 energy he has in Sestrad's chest!
 
 54
-00:05:35,471 --> 00:05:38,224
+00:05:35,471 --> 00:05:38,175
 The Baron has transformed!
 
 55
-00:05:38,249 --> 00:05:41,058
+00:05:38,200 --> 00:05:41,058
 Now he's stronger and- Wow!
 
 56
@@ -240,15 +240,16 @@ Incredible!
 Kai to the Baron Ragnaki!
 
 59
-00:06:20,873 --> 00:06:21,873
+00:06:20,786 --> 00:06:21,786
 Conceited.
 
 60
 00:06:46,590 --> 00:06:51,405
-You're nothing more than stones, and you fight as such
+You're nothing more than
+stones, and you fight as such
 
 61
-00:06:54,380 --> 00:06:57,351
+00:06:54,220 --> 00:06:57,351
 Second Kai to the Baron Ragnaki!
 
 62
@@ -262,7 +263,7 @@ leave us no other choice
 
 64
 00:07:07,090 --> 00:07:11,035
-The masters of fire are about
+The Masters of Fire are about
 to unleash some kind of....
 
 65
@@ -291,7 +292,7 @@ Masters are going to win the
 fight with this Kai!
 
 71
-00:07:43,576 --> 00:07:46,862
+00:07:43,479 --> 00:07:46,862
 The Baron saves this situation
 at the last possible moment
 
@@ -324,213 +325,218 @@ Magmus! We have to use the fusion again!
 Yes.
 
 79
+00:08:33,120 --> 00:08:34,950
+Nero-Sen....
+
+80
 00:08:51,000 --> 00:08:53,047
 Kai to the Baron!
 
-80
+81
 00:08:53,072 --> 00:08:54,805
 He's won the fight!
 
-81
+82
 00:09:10,731 --> 00:09:11,779
 I want to talk to Zack.
 
-82
+83
 00:09:12,479 --> 00:09:16,982
-That won't be possible. 
+That won't be possible.
 I understand what you feel
 
-83
+84
 00:09:17,007 --> 00:09:20,666
-But you can't let emotions interfere 
+But you can't let emotions interfere
 with your mission
 
-84
-00:09:20,691 --> 00:09:23,929
-If you really care about Zack, it's better if-
-
 85
+00:09:20,691 --> 00:09:23,929
+If you really care
+about Zack, it's better if-
+
+86
 00:09:23,954 --> 00:09:24,709
 Yeah, yeah
 
-86
-00:09:25,282 --> 00:09:30,140
-We shouldn't see each other 
+87
+00:09:25,282 --> 00:09:29,175
+We shouldn't see each other
 until this is all over
 
-87
-00:09:30,140 --> 00:09:34,301
-In that case, could you 
+88
+00:09:30,511 --> 00:09:34,301
+In that case, could you
 give him this for me?
 
-88
+89
 00:09:42,660 --> 00:09:45,776
-I'm sorry Chloe 
+I'm sorry Chloe
 This is not the time for this
 
-89
+90
 00:09:56,822 --> 00:09:57,891
 I knew it...
 
-90
+91
 00:09:59,031 --> 00:10:00,140
 I knew it!
 
-91
-00:10:05,524 --> 00:10:10,781
+92
+00:10:05,407 --> 00:10:10,781
 You may have defeated us, but the
 Masarianos will end up unmasking you
 
-92
+93
 00:10:12,315 --> 00:10:14,002
 You think so?
 
-93
+94
 00:10:14,027 --> 00:10:16,337
 People of Masara!
 
-94
+95
 00:10:16,362 --> 00:10:20,481
-Are these the most powerful 
+Are these the most powerful
 beings on the planet?
 
-95
+96
 00:10:20,506 --> 00:10:25,956
-The Fire Masters, 
+The Fire Masters,
 with their magic and their stories
 
-96
+97
 00:10:25,981 --> 00:10:28,932
 What did they do to stop the Yakis?
 
-97
+98
 00:10:28,957 --> 00:10:29,957
 Nothing!
 
-98
+99
 00:10:30,633 --> 00:10:32,025
 Exactly!
 
-99
+100
 00:10:32,413 --> 00:10:38,292
-Masara needs someone 
+Masara needs someone
 to rule with an iron fist!
 
-100
+101
 00:10:38,785 --> 00:10:40,949
 And I offer to you: my fist!
 
-101
+102
 00:10:49,880 --> 00:10:51,392
 What? Again?!
 
-102
+103
 00:10:51,440 --> 00:10:52,880
 This map is broken
 
-103
+104
 00:10:54,125 --> 00:10:55,038
 It's not broken
 
-104
+105
 00:10:55,527 --> 00:10:57,527
 It's reacting to the audience!
 
-105
+106
 00:10:57,918 --> 00:11:00,157
 I think this is more than just a map
 
-106
+107
 00:11:01,349 --> 00:11:02,049
 Oh no!
 
-107
+108
 00:11:02,426 --> 00:11:04,042
 Sidmodius has won!
 
-108
+109
 00:11:04,865 --> 00:11:09,283
 In that case, you better learn to use
 the Nero-Sen fusion
 
-109
+110
 00:11:09,810 --> 00:11:13,275
 Because you are the last hope
 for the multiverse
 
-110
+111
 00:11:13,800 --> 00:11:14,800
 Don't worry
 
-111
+112
 00:11:14,825 --> 00:11:18,275
 If we can't do it, I'm sure Chloe and
 the boys will
 
-112
+113
 00:11:19,735 --> 00:11:22,969
 Team Kiwun, Masara is waiting for us!
 
-113
+114
 00:11:36,930 --> 00:11:37,925
 Hey, guys!
 
-114
+115
 00:11:38,452 --> 00:11:42,362
 Before the next fight begins
 I wanted to wish you luck
 
-115
+116
 00:11:42,387 --> 00:11:45,314
 Of course! May the best team win!
 
-116
+117
 00:11:45,339 --> 00:11:47,269
 If we Kiwuns lose
 
-117
-00:11:47,294 --> 00:11:51,452
-Activate the fusion and teach 
+118
+00:11:47,294 --> 00:11:51,348
+Activate the fusion and teach
 Sidmodius a lesson for us
 
-118
-00:11:51,477 --> 00:11:52,063
+119
+00:11:51,373 --> 00:11:52,063
 Sure
 
-119
-00:11:52,088 --> 00:11:56,499
+120
+00:11:52,088 --> 00:11:56,823
 We are friends! Friends and rivals
 
-120
-00:11:56,499 --> 00:11:58,675
+121
+00:11:56,848 --> 00:11:58,675
 Friends and rivals.
 
-121
+122
 00:11:58,700 --> 00:12:04,345
 Guys! I confess it's going to make
 me a little sad to beat your asses
 
-122
+123
 00:12:05,909 --> 00:12:07,932
 Zack, quick question.
 
-123
+124
 00:12:07,957 --> 00:12:10,571
 Has Kento given you anything from me?
 
-124
+125
 00:12:10,596 --> 00:12:14,191
 Human team, Kiwun team, to the field!
 
-125
+126
 00:12:15,670 --> 00:12:18,199
 That's us!
 
-126
+127
 00:12:21,655 --> 00:12:22,349
 Where's Lon?
 
-127
+128
 00:12:25,320 --> 00:12:31,944
 And now the Human Team
 will face the Kiwun Team!
