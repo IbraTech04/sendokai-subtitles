@@ -37,7 +37,7 @@ An open-source repository aiming to be a collaborative effort to recreate Englis
 - [🟥] Episode 40 - The First Great Tournament 
 - [🟩] Episode 41 - The Norkingos 
 - [🟩] Episode 42 - A Hero For Masara 
-- [🟥] Episode 43 - You Are Alone 
+- [🟨] Episode 43 - You Are Alone 
 - [🟩] Episode 44 - Friends and Rivals 
 - [🟩] Episode 45 - May The Best Team Win 
 - [🟩] Episode 46 - Traitors 
