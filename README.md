@@ -26,32 +26,33 @@ This project aims to recreate the English subtitles for the entire series, so th
 
 
 **Season 2:** ![Progress](https://img.shields.io/badge/Progress-57%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
-- [🟩] Episode 27 - A Good Story*
-- [🟩] Episode 28 - A New Adventure* 
-- [🟩] Episode 29 - Danima*
-- [🟨] Episode 30 - Yakis*
-- [🟥] Episode 31 - Trust Us, Lon*
-- [🟨] Episode 32 - Kido the Destroyer*
-- [🟥] Episode 33 - Babysitter 
-- [🟥] Episode 34 - An Unbreakable Team 
-- [🟥] Episode 35 - Duo-Sen Lightning Bolt 
-- [🟥] Episode 36 - A Good Leader 
-- [🟥] Episode 37 - Uncertain Times 
-- [🟥] Episode 38 - I'll Never Forget You 
-- [🟥] Episode 39 - Stupid Sendokai 
-- [🟥] Episode 40 - The First Great Tournament 
-- [🟩] Episode 41 - The Norkingos 
-- [🟩] Episode 42 - A Hero For Masara 
-- [🟩] Episode 43 - You Are Alone 
-- [🟩] Episode 44 - Friends and Rivals 
-- [🟩] Episode 45 - May The Best Team Win 
-- [🟩] Episode 46 - Traitors 
-- [🟩] Episode 47 - The Twilight of the Hakuru 
-- [🟩] Episode 48 - The Hour of Truth 
-- [🟩] Episode 49 - The Power of the Baron 
-- [🟩] Episode 50 - The Great Zorn 
-- [🟩] Episode 51 - Rise of the Hakuru 
-- [🟩] Episode 52 - Something in Common
+- [🟩] [Episode 27 - A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt)
+- [🟩] [Episode 28 - A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt)
+- [🟩] [Episode 29 - Danima*](./s2/en/29%20-%20Danima.en.srt)
+- [🟨] [Episode 30 - Yakis*](./s2/en/30%20-%20Yakis.en.srt)
+- [🟥] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt)
+- [🟨] [Episode 32 - Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt)
+- [🟥] [Episode 33 - Babysitter](./s2/en/33%20-%20Babysitter.en.srt)
+- [🟥] [Episode 34 - An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)
+- [🟥] [Episode 35 - Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt)
+- [🟥] [Episode 36 - A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt)
+- [🟥] [Episode 37 - Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)
+- [🟥] [Episode 38 - I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)
+- [🟥] [Episode 39 - Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt)
+- [🟥] [Episode 40 - The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)
+- [🟩] [Episode 41 - The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt)
+- [🟩] [Episode 42 - A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt)
+- [🟩] [Episode 43 - You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt)
+- [🟩] [Episode 44 - Friends and Rivals](./s2/en/44%20-%20Friends%20and%20Rivals.en.srt)
+- [🟩] [Episode 45 - May The Best Team Win](./s2/en/45%20-%20May%20The%20Best%20Team%20Win.en.srt)
+- [🟩] [Episode 46 - Traitors](./s2/en/46%20-%20Traitors.en.srt)
+- [🟩] [Episode 47 - The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt)
+- [🟩] [Episode 48 - The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt)
+- [🟩] [Episode 49 - The Power of the Baron](./s2/en/49%20-%20The%20Power%20of%20the%20Baron.en.srt)
+- [🟩] [Episode 50 - The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt)
+- [🟩] [Episode 51 - Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt)
+- [🟩] [Episode 52 - Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt)
+
 
 ## How to Contribute
 
