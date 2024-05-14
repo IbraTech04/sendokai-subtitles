@@ -7,7 +7,6 @@ An open-source repository aiming to be a collaborative effort to recreate Englis
 [Sendokai Champions](http://www.sendokaichampions.com/) (Known as *Defasio Champions Sendokai* in Spanish) is a Spanish animated series developed by Kotoc Productions and produced by RTVE, Planeta Junior, and Kotoc. Aired in 2013, the show was originally aired in Spanish, and later dubbed in English for airing on Cartoon Network. However, the English dub is now considered *Lost Media* after being taken down from their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), with no other Official hosting. Currently, only the Spanish version is available on their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions), and very few English-dubbed episodes are available on the internet - most of which are low-quality and incomplete. The entirety of Season 1 was archived and uploaded to a [YouTube Channel](https://www.youtube.com/@sendokaichampions7678), and only the first few episodes of season 2 can be found archived on websites like BilliBilli and KissCartoon.
 
 ## Progress:
-Currently, I've been focusing on the second season since it's the most saught after. Once the second season is finished, we can consider working on the first; Though since it's already been dubbed in English, it's not as high of a priority.
 
 **Legend:**
 - 🟩 = Completed
