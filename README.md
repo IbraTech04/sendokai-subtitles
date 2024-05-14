@@ -1,10 +1,14 @@
 # Sendokai Champions Subtitles 
-An open-source repository aiming to be a collaborative effort to recreate English subtitles for the show "Sendokai Champions" (AKA "Defasio Champions Sendokai")
-
-*Instructions for how to contribute can be found below*
+Welcome to the Sendokai Champions Subtitles project! This repository aims to recreate English subtitles for the animated series "Sendokai Champions" (also known as *Desafio Champions Sendokai*). This open-source repository is a place where fans and volunteers can contribute to making the show accessible to English-speaking audiences.
 
 ## Premise 
-[Sendokai Champions](http://www.sendokaichampions.com/) (Known as *Defasio Champions Sendokai* in Spanish) is a Spanish animated series developed by Kotoc Productions and produced by RTVE, Planeta Junior, and Kotoc. Aired in 2013, the show was originally aired in Spanish, and later dubbed in English for airing on Cartoon Network. However, the English dub is now considered *Lost Media* after being taken down from their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), with no other Official hosting. Currently, only the Spanish version is available on their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions), and very few English-dubbed episodes are available on the internet - most of which are low-quality and incomplete. The entirety of Season 1 was archived and uploaded to a [YouTube Channel](https://www.youtube.com/@sendokaichampions7678), and only the first few episodes of season 2 can be found archived on websites like BilliBilli and KissCartoon.
+[Sendokai Champions](http://www.sendokaichampions.com/) (Known as *Desafio Champions Sendokai* in Spanish) is an animated series developed by Kotoc Productions and produced by RTVE, Planeta Junior, and Kotoc. Aired in 2013, the show debuted with many official dubs including Spanish (The main language), English, and [even Arabic!](https://www.arabic-toons.com/m7arbi-sendokai-1434722187-11103.html#sets).
+
+However, the English dub is now considered *Lost Media* after being taken down from their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), with no other official hosting. The production team had slowly been uploading the English dubs to their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), until one day everything was taken down without any explanation. 
+
+Currently the only readily availiable dub of the series is the Spanish version, which is found on their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions). The entirety of Season 1 in English was archived and uploaded to an [Unofficial YouTube Channel](https://www.youtube.com/@sendokaichampions7678), however finding Season 2 is much more challenging. Since the production team had only uploaded the first 6 episodes of Season 2, the rest of the episodes are considered lost media. Those 6 episodes can be found on the depths of KissCartoon or BilliBilli, but the quality is not the best.
+
+This project aims to recreate the English subtitles for the entire series, so that fans can enjoy the show in English once again! 
 
 ## Progress:
 
@@ -18,9 +22,10 @@ An open-source repository aiming to be a collaborative effort to recreate Englis
 - 🟥 = Not Started
     - No one has claimed this episode yet. If you're interested in helping out, feel free to claim it in the `Issues` tab!
 
-- \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle. It's recommended to leave these episodes for last, as they're the easiest to subtitle.
+- \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle. It's recommended to leave these episodes for last, as they're the easiest to subtitle. It may not end up being necissary to subtitle them at all, as the English dub is already availiable.
 
-**Season 2:**
+
+**Season 2:** ![Progress](https://img.shields.io/badge/Progress-57%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
 - [🟩] Episode 27 - A Good Story*
 - [🟩] Episode 28 - A New Adventure* 
 - [🟩] Episode 29 - Danima*
@@ -48,31 +53,11 @@ An open-source repository aiming to be a collaborative effort to recreate Englis
 - [🟩] Episode 51 - Rise of the Hakuru 
 - [🟩] Episode 52 - Something in Common
 
-
 ## How to Contribute
-Ready to help out? Great! Here's how you can get started:
 
-**This repository relies on GitFlow**. If you're not familiar with Git, I reccomend you read up on it before contributing. You can find a great guide [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to this project.
 
-### Step 1: Claim an Episode
-First, check the progress section above to see which episodes are available. If you see an episode that's not claimed, feel free to claim it by creating an `Issue` in this repository. This will let others know that you're working on it, and will prevent others from working on the same episode at the same time (causing merge conflicts). If someone else is working on the episode you want to work on, feel free to reach out to them and see if they need any help!
 
-### Step 2: Acquire the required resources
-You'll need to acquire the Spanish version of the episode you're working on. You can do this by downloading the episode from the [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions) using an online tool, or even better! [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+## Disclaimer
 
-You'll also need a `.srt` editor. I personally reccomend and use [Subtitle Edit](https://www.nikse.dk/subtitleedit/), but you can use any `.srt` editor you like.
-
-### Step 3: Clone this repository
-You'll need to clone this repository to your local machine. You can do this by running the following command in your terminal, or using the GUI buttons on the GitHub website. If you really wanna get fancy, you can use [GitHub Desktop](https://desktop.github.com/) to clone the repository. If you know how to use Git, you can use the following command:
-
-```bash
-git clone github.com/ibratech04/sendokai-champions-subtitles
-```
-
-### Step 4: Subtitle the Episode! 
-Once you're all setup, you can start subtitling the episode! You can do this by opening the `.srt` file for the episode you're working on in your `.srt` editor, loading in the episode, and adding the subtitles. Once you're done, save the file and move onto the next step.
-
-This step will take you the longest, at around 20-30 minutes per episode.
-
-### Step 5: Push your changes and create a Pull Request
-Once you're done, push your changes to the repository and create a Pull Request. This will let others know that you're done, and will allow others to review your work. If there are any issues, you can make the necessary changes and push them to the repository. Once your Pull Request is approved, your subtitles will be added to the repository and marked as complete!
+This project is not affiliated with Kotoc Productions, RTVE, Planeta Junior, Cartoon Network, or any other official entities associated with Sendokai Champions. It is a fan-driven effort to make the show accessible to English-speaking audiences.
