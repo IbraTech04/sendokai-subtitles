@@ -374,7 +374,7 @@ be able to save ourselves
 But today is not that day.
 
 87
-00:12:02,400 --> 00:12:07,570
+00:12:02,231 --> 00:12:07,570
 Because even if we lose
 everything, we still have our friendship
 
