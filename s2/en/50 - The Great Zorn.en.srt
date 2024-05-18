@@ -1,401 +1,397 @@
 ﻿1
-00:00:01,000 --> 00:00:03,000
-
-
-2
 00:00:37,880 --> 00:00:39,100
 I hate you all!
 
-3
+2
 00:00:39,720 --> 00:00:40,920
 I hate you all!
 
-4
+3
 00:00:47,760 --> 00:00:51,925
 Someday I will be strong,
 and this won't happen again
 
-5
+4
 00:00:52,560 --> 00:00:54,511
 I will create a more just world.
 
-6
+5
 00:00:54,536 --> 00:00:56,234
 A world without pain!
 
-7
+6
 00:01:01,000 --> 00:01:02,440
 The Zorn Fortress!
 
-8
+7
 00:01:02,600 --> 00:01:06,050
 This is where Zack the traitor
 and the others defeated the Zorns!
 
-9
+8
 00:01:43,000 --> 00:01:44,000
 At last!
 
-10
+9
 00:01:54,821 --> 00:01:55,920
 Strike!
 
-11
+10
 00:02:22,400 --> 00:02:26,437
 Remind me not to come
 with you on the next invasion
 
-12
+11
 00:02:26,462 --> 00:02:29,660
 I will do that, if there <i>is</i> a "next time"
 
-13
+12
 00:02:36,065 --> 00:02:39,445
 Baron Ragnaki's team
 has scored their first Kai!
 
-14
+13
 00:02:39,470 --> 00:02:41,345
 And take possession
 
-15
+14
 00:02:44,525 --> 00:02:46,160
 He's playing dirty!
 
-16
+15
 00:02:46,360 --> 00:02:48,619
 Is THIS the leader you want for Masara?
 
-17
+16
 00:02:55,600 --> 00:02:58,067
 Sidmodius has all of Danima's powers!
 
-18
+17
 00:02:58,092 --> 00:02:59,840
 We can't stop him!
 
-19
+18
 00:03:01,776 --> 00:03:03,850
 He may have Danima's powers
 
-20
+19
 00:03:03,875 --> 00:03:06,093
 But we have something more important!
 
-21
+20
 00:03:06,680 --> 00:03:07,800
 Her teachings!
 
-22
+21
 00:03:07,825 --> 00:03:09,120
 Yeah!
 
-23
+22
 00:03:18,316 --> 00:03:20,803
 Go-Sen Tornado!
 
-24
+23
 00:03:23,160 --> 00:03:25,963
 The humans have reacted!
 
-25
+24
 00:03:28,117 --> 00:03:31,363
 Wow! Their rapport is impressive!
 
-26
+25
 00:03:56,863 --> 00:03:58,770
 Zet-Sen Shot!
 
-27
+26
 00:04:08,080 --> 00:04:10,456
 Kai for the Humans!
 
-28
+27
 00:04:13,880 --> 00:04:15,190
 No!
 
-29
+28
 00:04:16,560 --> 00:04:17,560
 Yes!
 
-30
+29
 00:04:21,204 --> 00:04:25,865
 See? Clean fighting!
 That's how real heros fight!
 
-31
+30
 00:04:27,880 --> 00:04:35,490
 Humans! Humans! Humans!
 
-32
+31
 00:04:35,515 --> 00:04:39,705
 Damn traitors. The Baron is
 the man you should worship
 
-33
+32
 00:04:44,716 --> 00:04:49,396
 Huh? The map is feeling
 the energy of the public again!
 
-34
+33
 00:04:49,920 --> 00:04:51,810
 But this time it looks.... different
 
-35
+34
 00:04:52,604 --> 00:04:54,124
 He's reacting
 
-36
+35
 00:04:54,149 --> 00:04:57,264
 When Zack finally discovers
 the true power of the map
 
-37
+36
 00:04:57,280 --> 00:05:00,323
 Nothing will stop them.
 
-38
+37
 00:05:00,348 --> 00:05:03,729
 But only a true Hakuru
 can [something] the map
 
-39
+38
 00:05:04,080 --> 00:05:06,023
 And Zack isn't ready yet
 
-40
+39
 00:05:06,880 --> 00:05:09,668
 Not until you face your own limits.
 
-41
+40
 00:05:10,845 --> 00:05:15,920
 Also, there's something
 about this fight that I'm not liking
 
-42
+41
 00:05:18,880 --> 00:05:21,310
 You asked for it....
 
-43
+42
 00:05:26,920 --> 00:05:28,050
 Oh no....
 
-44
+43
 00:05:30,776 --> 00:05:32,695
 A nero rock!
 
-45
+44
 00:05:32,720 --> 00:05:35,664
 He must've stolen it from
 me when he fought us
 
-46
+45
 00:05:46,330 --> 00:05:48,990
 Nero... at... Sen!
 
-47
+46
 00:06:06,323 --> 00:06:07,023
 Huh?!
 
-48
+47
 00:06:13,720 --> 00:06:17,419
 The Baron has transformed again!
 
-49
+48
 00:06:35,080 --> 00:06:36,954
 Quiet! Do not move!
 
-50
+49
 00:06:36,979 --> 00:06:38,400
 Relax, Lon
 
-51
+50
 00:06:38,425 --> 00:06:40,800
 I'm not here to hurt you
 
-52
+51
 00:06:42,560 --> 00:06:45,227
 Do you know who that helmet belonged to?
 
-53
+52
 00:06:46,783 --> 00:06:50,323
 It belonged to the
 founder of the Zorn Empire
 
-54
+53
 00:06:52,720 --> 00:06:55,723
 He was a warrior with a vision
 
-55
+54
 00:06:55,748 --> 00:07:00,349
 He didn't stop until he
 got everything he wanted
 
-56
+55
 00:07:01,640 --> 00:07:07,376
 And he wanted the
 same thing as you, Lon
 
-57
+56
 00:07:08,160 --> 00:07:09,160
 Me?
 
-58
+57
 00:07:09,185 --> 00:07:14,196
 Wouldn't you like to be
 stronger and create a new world?
 
-59
+58
 00:07:14,221 --> 00:07:19,654
 A more just world.
 A world without pain.
 
-60
+59
 00:07:19,960 --> 00:07:24,235
 Whoever wears that
 helmet will rule the Multiverse
 
-61
+60
 00:07:24,280 --> 00:07:28,825
 And will put an end to all
 those who made him suffer
 
-62
+61
 00:07:28,850 --> 00:07:35,913
 Whoever wears that helmet
 will become The Great Zorn
 
-63
+62
 00:07:50,400 --> 00:07:53,624
 Oh no! They're going to
 activate the Nero-Sen Fusion!
 
-64
+63
 00:07:57,276 --> 00:07:58,943
 Kiet! Fenzy!
 
-65
+64
 00:07:58,968 --> 00:08:01,168
 You have to use
 the Duo-Sen Wall!
 
-66
+65
 00:08:01,200 --> 00:08:03,579
 The wall wont resist the fusion!
 
-67
+66
 00:08:03,604 --> 00:08:06,334
 I know. But it will
 absorb the impact!
 
-68
+67
 00:08:07,480 --> 00:08:09,277
 Chloe, you're with me!
 
-69
+68
 00:08:23,240 --> 00:08:25,315
 Duo-Sen Wall!
 
-70
+69
 00:08:25,800 --> 00:08:30,289
 Nero-Sen Fusion!
 
-71
+70
 00:08:48,880 --> 00:08:49,536
 Now!
 
-72
+71
 00:09:04,780 --> 00:09:07,576
 Kai for the Baron Ragnaki!
 
-73
+72
 00:09:13,040 --> 00:09:16,463
 One more and he will
 win the Grand Tournament!
 
-74
+73
 00:09:39,480 --> 00:09:47,269
 Oh no. If Sidmodius uses the Fusion
-on them again, he's going to kill them
+on them again, he'll destroy them
 
-75
+74
 00:09:56,680 --> 00:09:59,599
 It's over. This is the end
 
-76
+75
 00:09:59,624 --> 00:10:03,370
 It can't be! What
 are we going to do?!
 
-77
+76
 00:10:51,240 --> 00:10:54,357
 We're going to activate
 the Nero-Sen fusion!
 
-78
+77
 00:10:58,281 --> 00:11:01,632
 But we don't know what
 feeling we have in common
 
-79
+78
 00:11:02,200 --> 00:11:05,755
 Since we met, we've been
 through so much together
 
-80
+79
 00:11:18,080 --> 00:11:22,370
 We've been beaten,
 ridiculed, shot,
 
-81
+80
 00:11:25,128 --> 00:11:26,539
 We've suffered
 
-82
+81
 00:11:27,680 --> 00:11:28,680
 On Earth
 
-83
+82
 00:11:31,000 --> 00:11:33,333
 And in the depths
 of the Multiverse
 
-84
+83
 00:11:40,160 --> 00:11:41,893
 But we kept moving forward
 
-85
+84
 00:11:52,114 --> 00:11:55,186
 Maybe one day we won't
 be able to save ourselves
 
-86
+85
 00:11:58,670 --> 00:12:01,098
 But today is not that day.
 
-87
+86
 00:12:02,231 --> 00:12:07,570
 Because even if we lose
 everything, we still have our friendship
 
-88
+87
 00:12:07,720 --> 00:12:09,400
 And that's what matters
 
-89
+88
 00:12:13,042 --> 00:12:16,189
 Because that's the
 feeling that unites us
 
-90
+89
 00:12:31,120 --> 00:12:34,903
 Nero-Sen Fusion!
 
-91
+90
 00:12:53,480 --> 00:12:57,183
 Nero-Sen Fusion!
 
-92
+91
 00:13:07,760 --> 00:13:09,011
 Come on, guys!
 

@@ -12,6 +12,8 @@ This project aims to recreate the English subtitles for the entire series, so th
 
 ## Progress:
 
+Currently, I'm working on creating English Subtitles based on the Spanish Dub for Season 2. Once I finish that, I'm considering creating Arabic subtitles for the redacted scenes in the Arabic Dub (Many of Zack, Chloe, and Lon's Scenes were redacted in the Arabic Dub due to them being considered "Inappropriate"). If you're interested in helping out, feel free to claim an episode in the `Issues` tab!
+
 **Legend:**
 - 🟩 = Completed
     - This means that the subtitles for this particular episode are complete and ready to be used
