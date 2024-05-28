@@ -27,7 +27,10 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 - \* $\implies$ Episode has a surviving English dub, and is much easier to subtitle. It's recommended to leave these episodes for last, as they're the easiest to subtitle. It may not end up being necissary to subtitle them at all, as the English dub is already availiable.
 
 
-**Season 2:** ![Progress](https://img.shields.io/badge/Progress-57%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
+**Season 2:** 
+
+![Overall Progress](https://img.shields.io/badge/Progress-57%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
+
 - [🟩] [Episode 27 - A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt)
 - [🟩] [Episode 28 - A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt)
 - [🟩] [Episode 29 - Danima*](./s2/en/29%20-%20Danima.en.srt)
