@@ -44,7 +44,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 - [🟥] [Episode 37 - Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)
 - [🟥] [Episode 38 - I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)
 - [🟥] [Episode 39 - Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt)
-- [🟥] [Episode 40 - The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)
+- [🟨] [Episode 40 - The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)
 - [🟩] [Episode 41 - The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt)
 - [🟩] [Episode 42 - A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt)
 - [🟩] [Episode 43 - You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt)

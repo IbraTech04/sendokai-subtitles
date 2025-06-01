@@ -1,10 +1,10 @@
 ﻿1
 00:00:37,880 --> 00:00:39,100
-I hate you all!
+<i>I hate you all!</i>
 
 2
 00:00:39,720 --> 00:00:40,920
-I hate you all!
+<i>I hate you all!</i>
 
 3
 00:00:47,760 --> 00:00:51,925
@@ -336,12 +336,12 @@ feeling we have in common
 78
 00:11:02,200 --> 00:11:05,755
 Since we met, we've been
-through so much together
+through it all together
 
 79
 00:11:18,080 --> 00:11:22,370
 We've been beaten,
-ridiculed, shot,
+ridiculed, shot at,
 
 80
 00:11:25,128 --> 00:11:26,539
@@ -358,12 +358,12 @@ of the Multiverse
 
 83
 00:11:40,160 --> 00:11:41,893
-But we kept moving forward
+And we've always come out on top
 
 84
 00:11:52,114 --> 00:11:55,186
 Maybe one day we won't
-be able to save ourselves
+be able to save each other
 
 85
 00:11:58,670 --> 00:12:01,098
