@@ -33,12 +33,12 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 ![Overall Progress](https://img.shields.io/badge/Progress-65%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
 
-- [🟩] [Episode 27 - A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt)
-- [🟩] [Episode 28 - A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt)
-- [🟩] [Episode 29 - Danima*](./s2/en/29%20-%20Danima.en.srt)
-- [🟩] [Episode 30 - Yakis*](./s2/en/30%20-%20Yakis.en.srt)
-- [🟨] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt)
-- [🟨] [Episode 32 - Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt)
+- [🟩] [Episode 27 - A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 28 - A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 29 - Danima*](./s2/en/29%20-%20Danima.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 30 - Yakis*](./s2/en/30%20-%20Yakis.en.srt) - Ibrahim Chehab 
+- [🟨] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt) - Ryan Khan and Ibrahim Chehab
+- [🟨] [Episode 32 - Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt) - Ibrahim Chehab 
 - [🟥] [Episode 33 - Babysitter](./s2/en/33%20-%20Babysitter.en.srt)
 - [🟥] [Episode 34 - An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)
 - [🟥] [Episode 35 - Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt)
@@ -46,25 +46,25 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 - [🟥] [Episode 37 - Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)
 - [🟥] [Episode 38 - I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)
 - [🟥] [Episode 39 - Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt)
-- [🟨] [Episode 40 - The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)
-- [🟩] [Episode 41 - The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt)
-- [🟩] [Episode 42 - A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt)
-- [🟩] [Episode 43 - You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt)
-- [🟩] [Episode 44 - Friends and Rivals](./s2/en/44%20-%20Friends%20and%20Rivals.en.srt)
-- [🟩] [Episode 45 - May The Best Team Win](./s2/en/45%20-%20May%20The%20Best%20Team%20Win.en.srt)
-- [🟩] [Episode 46 - Traitors](./s2/en/46%20-%20Traitors.en.srt)
-- [🟩] [Episode 47 - The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt)
-- [🟩] [Episode 48 - The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt)
-- [🟩] [Episode 49 - The Power of the Baron](./s2/en/49%20-%20The%20Power%20of%20the%20Baron.en.srt)
-- [🟩] [Episode 50 - The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt)
-- [🟩] [Episode 51 - Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt)
-- [🟩] [Episode 52 - Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt)
+- [🟨] [Episode 40 - The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)  - Ibrahim Chehab
+- [🟩] [Episode 41 - The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 42 - A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 43 - You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 44 - Friends and Rivals](./s2/en/44%20-%20Friends%20and%20Rivals.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 45 - May The Best Team Win](./s2/en/45%20-%20May%20The%20Best%20Team%20Win.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 46 - Traitors](./s2/en/46%20-%20Traitors.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 47 - The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt - Ibrahim Chehab)
+- [🟩] [Episode 48 - The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 49 - The Power of the Baron](./s2/en/49%20-%20The%20Power%20of%20the%20Baron.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 50 - The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 51 - Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt) - Ibrahim Chehab
+- [🟩] [Episode 52 - Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt) - Ibrahim Chehab
 
 ## How to Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to this project.
 
-## BONUS! Subly Integration! 
+## BONUS! Subly Integration
 
 As alluded to in the [Subly](https://github.com/IbraTech04/subly) repository, this repository powers Subly's Sendokai Champions integration. If you're interested in an easy way to inject these subtitles into episodes, you can install the Subly extension, then simply open a Sendokai Champions episode on YouTube! Subly will automatically detect the episode and inject the subtitles from this repository, allowing you to watch the episode with English subtitles!
 
