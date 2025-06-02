@@ -31,13 +31,13 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 **Season 2:**
 
-![Overall Progress](https://img.shields.io/badge/Progress-57%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
+![Overall Progress](https://img.shields.io/badge/Progress-65%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
 
 - [🟩] [Episode 27 - A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt)
 - [🟩] [Episode 28 - A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt)
 - [🟩] [Episode 29 - Danima*](./s2/en/29%20-%20Danima.en.srt)
 - [🟩] [Episode 30 - Yakis*](./s2/en/30%20-%20Yakis.en.srt)
-- [🟥] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt)
+- [🟨] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt)
 - [🟨] [Episode 32 - Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt)
 - [🟥] [Episode 33 - Babysitter](./s2/en/33%20-%20Babysitter.en.srt)
 - [🟥] [Episode 34 - An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)
