@@ -1,6 +1,6 @@
 1
 00:00:38,210 --> 00:00:40,249
-Well, we've arrived.
+Well, we're here!
 
 2
 00:00:41,470 --> 00:00:45,241
@@ -8,7 +8,7 @@ This is where the great
 Sendokai tournament will be held
 
 3
-00:00:45,266 --> 00:00:46,439
+00:00:45,266 --> 00:00:47,327
 The Shohanan Stadium
 
 4
@@ -17,12 +17,12 @@ Lalith!
 
 5
 00:00:58,800 --> 00:01:00,275
-Did you come?
+You're here?
 
 6
 00:01:00,300 --> 00:01:04,049
 I heard that someone was going to
-kick Sid Modius's butt
+kick Sidmodius' butt
 
 7
 00:01:04,060 --> 00:01:06,491
@@ -30,7 +30,7 @@ and I wanted to see it for myself.
 
 8
 00:01:06,920 --> 00:01:08,579
-Where are Tampo and Kento?
+ Where are Tampo and Kento?
 
 9
 00:01:09,240 --> 00:01:11,219
@@ -42,7 +42,7 @@ Citizens of Manara!
 
 11
 00:01:25,640 --> 00:01:26,710
-...Masara
+<i>Masara</i>
 
 12
 00:01:27,067 --> 00:01:29,163
@@ -65,29 +65,29 @@ Yeah!
 At first base, facing the pitcher.
 
 17
-00:02:02,150 --> 00:02:03,309
+00:02:02,150 --> 00:02:03,785
 They're all girls.
 
 18
-00:02:03,810 --> 00:02:05,409
+00:02:03,810 --> 00:02:05,999
 This is going to be a piece of cake.
 
 19
-00:02:06,170 --> 00:02:06,669
-One
+00:02:12,876 --> 00:02:14,719
+I like the style of those girls.
 
 20
-00:02:14,020 --> 00:02:14,719
-of those girls.
-
-21
 00:02:15,040 --> 00:02:16,839
 Yeah, they're strong, but...
 
-22
+21
 00:02:17,340 --> 00:02:20,159
 Let's see who's best
-with a C on their feet.
+with a do on their feet.
+
+22
+00:02:29,473 --> 00:02:29,836
+Cloe!
 
 23
 00:02:29,860 --> 00:02:31,079
@@ -99,11 +99,11 @@ Thinking up a tactic
 for combat?
 
 25
-00:02:35,220 --> 00:02:38,219
-Yes, it's very obvious.
+00:02:35,220 --> 00:02:38,516
+Yes, is it that obvious?
 
 26
-00:02:43,450 --> 00:02:43,949
+00:02:43,450 --> 00:02:44,365
 You know what?
 
 27
@@ -132,276 +132,308 @@ Yes, I've noticed that too.
 What
 
 33
-00:03:09,800 --> 00:03:10,439
-are you doing here?
+00:03:08,907 --> 00:03:09,776
+Kido!
 
 34
-00:03:10,700 --> 00:03:12,339
-Looking for my brothers.
+00:03:09,800 --> 00:03:10,675
+What are you doing here?
 
 35
+00:03:10,700 --> 00:03:12,930
+Looking for my brothers.
+
+36
 00:03:13,440 --> 00:03:14,419
 And what are you doing here?
 
-36
-00:03:14,720 --> 00:03:16,099
-You should be with your team.
-
 37
+00:03:14,720 --> 00:03:16,099
+Shouldn't you be with your team?
+
+38
 00:03:17,490 --> 00:03:19,329
 I don't have a team anymore.
 
-38
-00:03:21,700 --> 00:03:22,199
-Yes
-
 39
-00:05:38,250 --> 00:05:39,509
-could save us.
+00:03:21,700 --> 00:03:22,199
+Yakis!
 
 40
-00:05:40,090 --> 00:05:41,609
-He can fight in a tournament.
+00:03:42,540 --> 00:03:44,123
+Keenan!
 
 41
+00:03:44,148 --> 00:03:45,139
+Kiway!
+
+42
+00:04:07,151 --> 00:04:10,471
+Let the Sendokai begin!
+
+43
+00:04:27,385 --> 00:04:31,584
+Wow! The Nero armor has made us more powerful!
+
+44
+00:05:37,822 --> 00:05:40,065
+If he could save us.
+
+45
+00:05:40,090 --> 00:05:42,145
+He can fight in a tournament.
+
+46
 00:05:45,960 --> 00:05:46,459
 Neither can we!
 
-42
+47
 00:05:50,790 --> 00:05:52,569
 I said you had
 a chance.
 
-43
+48
 00:05:53,290 --> 00:05:56,879
 Although we'll still need
 another warrior in case
 
-44
+49
 00:05:56,890 --> 00:05:57,849
 someone gets injured.
 
-45
+50
 00:06:02,520 --> 00:06:03,199
 Me?
 
-46
+51
 00:06:03,680 --> 00:06:04,359
 Impossible!
 
-47
+52
 00:06:05,240 --> 00:06:08,659
 I'm no longer a
 warrior, Sendokai.
 
-48
+53
 00:06:09,040 --> 00:06:10,379
 You're wrong, Za.
 
-49
+54
 00:06:12,740 --> 00:06:16,219
 But Sendokai is for
 life.
 
-50
+55
 00:06:43,220 --> 00:06:44,819
 It's over, guys.
 
-51
+56
 00:06:46,770 --> 00:06:47,829
 Things have changed.
 
-52
+57
 00:06:48,370 --> 00:06:50,369
 But you can't stay
 stuck in the past.
 
-53
+58
 00:06:50,990 --> 00:06:53,869
 Because here and now,
 you still have a team.
 
-54
+59
 00:06:58,640 --> 00:06:59,459
 Who can you trust?
 
-55
+60
 00:08:23,920 --> 00:08:24,819
 We've been saved.
 
-56
+61
 00:08:40,650 --> 00:08:43,249
 You have to get back to
 participating in the big picture.
 
-57
+62
 00:08:46,280 --> 00:08:48,459
 We won't be able to stop
 Sid Modius.
 
-58
+63
 00:08:48,460 --> 00:08:50,779
 I've left the Sendokai and...
 
-59
+64
 00:08:51,360 --> 00:08:52,839
 I have new friends.
 
-60
+65
 00:08:53,670 --> 00:08:54,189
 That?
 
-61
+66
 00:08:54,490 --> 00:08:55,549
 Is that a coconut?
 
-62
+67
 00:08:56,190 --> 00:09:00,349
 Your real friends are
 fighting to save the world.
 
-63
+68
 00:09:00,970 --> 00:09:02,089
 You don't understand.
 
-64
+69
 00:09:02,549 --> 00:09:05,069
 I've endangered
 the people I love.
 
-65
+70
 00:09:05,630 --> 00:09:08,308
 I let Sid Modius
 get away with it.
 
-66
+71
 00:09:08,850 --> 00:09:09,989
 And because of me...
 
-67
+72
 00:09:11,780 --> 00:09:13,379
 Danima is dead!
 
-68
+73
 00:09:14,600 --> 00:09:16,779
 I've done horrible things.
 
-69
-00:09:17,480 --> 00:09:19,339
+74
+00:09:17,318 --> 00:09:19,339
 No one will forgive me.
 
-70
-00:09:19,340 --> 00:09:23,009
+75
+00:09:21,186 --> 00:09:22,099
+But-
+
+76
+00:09:22,123 --> 00:09:23,724
 I said no!
 
-71
-00:09:30,640 --> 00:09:31,379
+77
+00:09:30,013 --> 00:09:31,379
 He's a coward!
 
-72
+78
 00:09:34,800 --> 00:09:35,999
 He's like a monster!
 
-73
+79
 00:09:36,480 --> 00:09:39,619
 I enslaved
 entire dimensions.
 
-74
+80
 00:09:39,740 --> 00:09:42,429
 And yet, the people
 who really
 
-75
+81
 00:09:42,440 --> 00:09:44,459
 cared forgave me.
 
-76
+82
 00:09:46,110 --> 00:09:48,989
 You know your friends
 will forgive you.
 
-77
+83
 00:09:49,430 --> 00:09:51,649
 But that's not what you fear.
 
-78
+84
 00:09:52,190 --> 00:09:52,869
 Right?
 
-79
+85
 00:09:53,760 --> 00:09:56,759
 You blame yourself for
 Danima's death.
 
-80
+86
 00:09:57,460 --> 00:10:00,159
 But she's not
 here to forgive you.
 
-81
+87
 00:10:00,160 --> 00:10:03,039
 And you have to live with that.
 
-82
+88
 00:10:04,350 --> 00:10:07,349
 I just wanted to be
 a good Hakuro.
 
-83
+89
 00:10:08,010 --> 00:10:08,929
 What did you say?
 
-84
+90
 00:10:10,270 --> 00:10:13,769
 That I just want to
 be a good Hakuro.
 
-85
+91
 00:10:14,370 --> 00:10:17,089
 Do you really want to
 be a good Hakuro?
 
-86
+92
 00:10:20,870 --> 00:10:22,869
 In that case...
 
-87
+93
 00:10:22,870 --> 00:10:27,129
 Accept the pain
 and fight again!
 
-88
+94
 00:10:27,990 --> 00:10:30,449
 Just as Danima would have wanted.
 
-89
+95
 00:10:30,450 --> 00:10:35,269
 Because that's what...
 
-90
+96
 00:10:35,270 --> 00:10:38,249
 You have to be
 really brave.
 
-91
+97
 00:11:00,150 --> 00:11:01,409
 And it rings a bell.
 
-92
+98
 00:11:02,050 --> 00:11:02,669
 Anyway.
 
-93
-00:12:16,780 --> 00:12:18,679
+99
+00:12:13,245 --> 00:12:16,755
+Damn, he's really strong
+
+100
+00:12:16,780 --> 00:12:19,395
 We are Masara's only
 hope.
 
-94
+101
 00:12:19,420 --> 00:12:21,659
-I'm afraid I...
+I'm afraid you're mistaken
 
-95
-00:12:22,400 --> 00:12:24,399
-Actually, one after another.
+102
+00:12:22,437 --> 00:12:25,312
+Actually, there's another one
+
+103
+00:12:26,960 --> 00:12:29,085
+Attention, please!
 
