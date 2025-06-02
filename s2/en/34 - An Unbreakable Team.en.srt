@@ -28,7 +28,7 @@ Music]
 
 8
 00:00:38,550 --> 00:00:42,239
-hello with Miss Chloe, please, yes, yes, she
+hello with Miss Cloe, please, yes, yes, she
 
 9
 00:00:42,239 --> 00:00:44,850
@@ -92,7 +92,7 @@ milan
 
 24
 00:01:36,920 --> 00:01:41,150
-chloe what are you doing here I came from buying
+Cloe what are you doing here I came from buying
 
 25
 00:01:41,150 --> 00:01:46,299
@@ -440,7 +440,7 @@ a long time. Ok, thank you,
 
 111
 00:09:36,610 --> 00:09:39,149
-Chloe.
+Cloe.
 
 112
 00:09:40,050 --> 00:09:43,370

@@ -233,23 +233,23 @@ The Humans are behaving strangely
 
 56
 00:06:00,440 --> 00:06:01,440
-Chloe!
+Cloe!
 
 57
 00:06:05,968 --> 00:06:06,968
-Chloe!
+Cloe!
 
 58
 00:06:08,280 --> 00:06:08,945
-Zack!
+Zak!
 
 59
 00:06:08,969 --> 00:06:10,650
-Chloe!
+Cloe!
 
 60
 00:06:12,038 --> 00:06:13,321
-Chloe!
+Cloe!
 
 61
 00:06:11,015 --> 00:06:11,675
@@ -322,7 +322,7 @@ What's wrong?
 78
 00:07:10,660 --> 00:07:16,299
 I just remembered where I know
-her from. That woman is Chronan Yatt!
+her from. That woman is Chronam-Yatt!
 
 79
 00:07:23,490 --> 00:07:29,894
@@ -330,7 +330,7 @@ Come with me.
 
 80
 00:07:29,919 --> 00:07:33,943
-Chloe, you have to choose one of us
+Cloe, you have to choose one of us
 
 81
 00:07:39,217 --> 00:07:40,506
@@ -461,7 +461,7 @@ I'm here with you
 
 112
 00:09:54,480 --> 00:09:55,733
-Chloe
+Cloe
 
 113
 00:09:55,758 --> 00:10:00,589
@@ -494,7 +494,7 @@ Yeah!
 
 120
 00:11:10,480 --> 00:11:11,619
-Chloe
+Cloe
 
 121
 00:11:11,644 --> 00:11:14,353
@@ -544,7 +544,7 @@ good and evil in the Multi-Verse
 
 131
 00:11:52,494 --> 00:11:56,700
-Chronan-Yatt is a goddess of evil.
+Chronam-Yatt is a goddess of evil.
 
 132
 00:11:56,725 --> 00:11:58,175

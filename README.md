@@ -34,7 +34,7 @@ This project aims to recreate the English subtitles for the entire series, so th
 
 ## Current Progress
 
-Currently, I'm working on creating English Subtitles based on the Spanish Dub for Season 2. Once I finish that, I'm considering creating Arabic subtitles for the redacted scenes in the Arabic Dub (Many of Zach, Chloe, and Lon's Scenes were redacted in the Arabic Dub due to them being considered inappropriate for the region). If you're interested in helping out, feel free to claim an episode in the `Issues` tab!
+Currently, I'm working on creating English Subtitles based on the Spanish Dub for Season 2. Once I finish that, I'm considering creating Arabic subtitles for the redacted scenes in the Arabic Dub (Many of Zak, Cloe, and Lon's Scenes were redacted in the Arabic Dub due to them being considered inappropriate for the region). If you're interested in helping out, feel free to claim an episode in the `Issues` tab!
 
 ### Status Legend
 
@@ -81,7 +81,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 46 | [Traitors](./s2/en/46%20-%20Traitors.en.srt) | 🟩 | Ibrahim Chehab |
 | 47 | [The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt) | 🟩 | Ibrahim Chehab |
 | 48 | [The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt) | 🟩 | Ibrahim Chehab |
-| 49 | [The Power of the Baron](./s2/en/49%20-%20The%20Power%20of%20the%20Baron.en.srt) | 🟩 | Ibrahim Chehab |
+| 49 | [The Power of the Barón](./s2/en/49%20-%20The%20Power%20of%20the%20Barón.en.srt) | 🟩 | Ibrahim Chehab |
 | 50 | [The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt) | 🟩 | Ibrahim Chehab |
 | 51 | [Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt) | 🟩 | Ibrahim Chehab |
 | 52 | [Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt) | 🟩 | Ibrahim Chehab |
