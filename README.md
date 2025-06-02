@@ -87,7 +87,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 51 | [Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt) | 🟩 | Ibrahim Chehab |
 | 52 | [Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt) | 🟩 | Ibrahim Chehab |
 
-### 🎭 Sengate
+### 🎥 Sengate
 
 <div align="center">
   
@@ -130,5 +130,7 @@ This project is not affiliated with Kotoc Productions, RTVE, Planeta Junior, Car
 **Made with ❤️ by the Sendokai Champions fan community**
 
 [🐛 Report Subtitling Issue](https://github.com/IbraTech04/sendokai-subtitles/issues) • [💬 Discussions](https://github.com/IbraTech04/sendokai-subtitles/discussions)
+
+<a href="https://github.com/IbraTech04/sendokai-subtitles">SendokaiSubtitles</a> © 2024 by <a href="https://github.com/IbraTech04">IbraTech04</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 </div>
