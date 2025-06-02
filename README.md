@@ -60,6 +60,14 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 - [🟩] [Episode 51 - Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 52 - Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt) - Ibrahim Chehab
 
+**Sengate:**
+
+![Overall Progress](https://img.shields.io/badge/Progress-50%25-green?style=flat&logo=appveyor&logoColor=white&color=green)
+
+[🟩] [Sengate - English Subs](./sengate/en/Sendokai%20Champions%20-%20Sengate.en.srt) - Someone at Kotoc, probably
+[🟨] [Sengate - Arabic Subs](./sengate/ar/Sendokai%20Champions%20-%20Sengate.ar.srt) - Ibrahim Chehab
+
+
 ## How to Contribute
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to contribute to this project.
