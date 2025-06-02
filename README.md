@@ -53,7 +53,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 - [🟩] [Episode 44 - Friends and Rivals](./s2/en/44%20-%20Friends%20and%20Rivals.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 45 - May The Best Team Win](./s2/en/45%20-%20May%20The%20Best%20Team%20Win.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 46 - Traitors](./s2/en/46%20-%20Traitors.en.srt) - Ibrahim Chehab
-- [🟩] [Episode 47 - The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt - Ibrahim Chehab)
+- [🟩] [Episode 47 - The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 48 - The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 49 - The Power of the Baron](./s2/en/49%20-%20The%20Power%20of%20the%20Baron.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 50 - The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt) - Ibrahim Chehab
