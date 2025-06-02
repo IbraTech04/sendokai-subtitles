@@ -57,34 +57,34 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 </div>
 
-| Episode | Title | Status | Contributor |
-|---------|-------|--------|-------------|
-| 27 | [A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt) | 🟩 | Ibrahim Chehab |
-| 28 | [A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt) | 🟩 | Ibrahim Chehab |
-| 29 | [Danima*](./s2/en/29%20-%20Danima.en.srt) | 🟩 | Ibrahim Chehab |
-| 30 | [Yakis*](./s2/en/30%20-%20Yakis.en.srt) | 🟩 | Ibrahim Chehab |
-| 31 | [Trust Us, Lon](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt) | 🟩 | Ryan Khan and Ibrahim Chehab |
-| 32 | [Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt) | 🟩 | Ibrahim Chehab |
-| 33 | [Babysitter](./s2/en/33%20-%20Babysitter.en.srt) | 🟥 | - |
-| 34 | [An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt) | 🟥 | - |
-| 35 | [Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt) | 🟥 | - |
-| 36 | [A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt) | 🟥 | - |
-| 37 | [Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt) | 🟥 | - |
-| 38 | [I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt) | 🟥 | - |
-| 39 | [Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt) | 🟥 | - |
-| 40 | [The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt) | 🟩 | Ibrahim Chehab |
-| 41 | [The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt) | 🟩 | Ibrahim Chehab |
-| 42 | [A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt) | 🟩 | Ibrahim Chehab |
-| 43 | [You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt) | 🟩 | Ibrahim Chehab |
-| 44 | [Friends and Rivals](./s2/en/44%20-%20Friends%20and%20Rivals.en.srt) | 🟩 | Ibrahim Chehab |
-| 45 | [May The Best Team Win](./s2/en/45%20-%20May%20The%20Best%20Team%20Win.en.srt) | 🟩 | Ibrahim Chehab |
-| 46 | [Traitors](./s2/en/46%20-%20Traitors.en.srt) | 🟩 | Ibrahim Chehab |
-| 47 | [The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt) | 🟩 | Ibrahim Chehab |
-| 48 | [The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt) | 🟩 | Ibrahim Chehab |
-| 49 | [The Power of the Barón](./s2/en/49%20-%20The%20Power%20of%20the%20Barón.en.srt) | 🟩 | Ibrahim Chehab |
-| 50 | [The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt) | 🟩 | Ibrahim Chehab |
-| 51 | [Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt) | 🟩 | Ibrahim Chehab |
-| 52 | [Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt) | 🟩 | Ibrahim Chehab |
+| Episode | Title                                                                                    | Status | Contributor                  |
+|---------|------------------------------------------------------------------------------------------|--------|------------------------------|
+| 27      | [A Good Story*](./s2/en/27%20-%20A%20Good%20Story.en.srt)                                | 🟩     | Ibrahim Chehab               |
+| 28      | [A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt)                          | 🟩     | Ibrahim Chehab               |
+| 29      | [Danima*](./s2/en/29%20-%20Danima.en.srt)                                                | 🟩     | Ibrahim Chehab               |
+| 30      | [Yakis*](./s2/en/30%20-%20Yakis.en.srt)                                                  | 🟩     | Ibrahim Chehab               |
+| 31      | [Trust Us, Lon](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt)                               | 🟩     | Ryan Khan and Ibrahim Chehab |
+| 32      | [Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt)                    | 🟩     | Ibrahim Chehab               |
+| 33      | [Babysitter](./s2/en/33%20-%20Babysitter.en.srt)                                         | 🟨     | Ibrahim Cheahb               |
+| 34      | [An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)                   | 🟨     | Ibrahim Cheahb               |
+| 35      | [Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt)             | 🟨     | Ibrahim Cheahb               |
+| 36      | [A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt)                               | 🟨     | Ibrahim Cheahb               |
+| 37      | [Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)                             | 🟨     | Ibrahim Cheahb               |
+| 38      | [I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)             | 🟨     | Ibrahim Cheahb               |
+| 39      | [Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt)                             | 🟨     | Ibrahim Cheahb               |
+| 40      | [The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)   | 🟩     | Ibrahim Chehab               |
+| 41      | [The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt)                                 | 🟩     | Ibrahim Chehab               |
+| 42      | [A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt)                     | 🟩     | Ibrahim Chehab               |
+| 43      | [You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt)                               | 🟩     | Ibrahim Chehab               |
+| 44      | [Friends and Rivals](./s2/en/44%20-%20Friends%20and%20Rivals.en.srt)                     | 🟩     | Ibrahim Chehab               |
+| 45      | [May The Best Team Win](./s2/en/45%20-%20May%20The%20Best%20Team%20Win.en.srt)           | 🟩     | Ibrahim Chehab               |
+| 46      | [Traitors](./s2/en/46%20-%20Traitors.en.srt)                                             | 🟩     | Ibrahim Chehab               |
+| 47      | [The Twilight of the Hakuru](./s2/en/47%20-%20The%20Twilight%20of%20the%20Hakuru.en.srt) | 🟩     | Ibrahim Chehab               |
+| 48      | [The Hour of Truth](./s2/en/48%20-%20The%20Hour%20of%20Truth.en.srt)                     | 🟩     | Ibrahim Chehab               |
+| 49      | [The Power of the Barón](./s2/en/49%20-%20The%20Power%20of%20the%20Barón.en.srt)         | 🟩     | Ibrahim Chehab               |
+| 50      | [The Great Zorn](./s2/en/50%20-%20The%20Great%20Zorn.en.srt)                             | 🟩     | Ibrahim Chehab               |
+| 51      | [Rise of the Hakuru](./s2/en/51%20-%20Rise%20of%20the%20Hakuru.en.srt)                   | 🟩     | Ibrahim Chehab               |
+| 52      | [Something in Common](./s2/en/52%20-%20Something%20in%20Common.en.srt)                   | 🟩     | Ibrahim Chehab               |
 
 ### 🎥 Sengate
 
