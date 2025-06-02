@@ -1,223 +1,648 @@
 1
-00:00:38,000 --> 00:00:44,000
-Quick Hurry up. My people need help
+00:00:38,280 --> 00:00:38,920
+Quick!
 
-1
-00:00:44,000 --> 00:00:50,000
-you know, my SIR is giving me a really familiar feeling. Yeah,
+2
+00:00:38,920 --> 00:00:41,920
+Hurry up! My people need help!
 
-1
-00:00:50,000 --> 00:00:54,000
-it's called being tired. I get that on Earth too.
+3
+00:00:44,520 --> 00:00:48,960
+You know, Masara is giving
+me a really familiar feeling.
 
-1
-00:00:54,000 --> 00:00:58,000
-Hey, Keith keto. Is it much further? No,
+4
+00:00:49,360 --> 00:00:50,720
+Yeah.
 
-1
-00:00:58,000 --> 00:01:10,000
-we have to cross that plane of hard luck it's a little desert
+5
+00:00:50,720 --> 00:00:54,840
+It's called being tired.
+I get that on earth, too.
 
-1
-00:01:10,000 --> 00:01:18,000
-he would only take three days come on don't just stand there kiddo
+6
+00:00:54,840 --> 00:00:58,720
+Hey, Kido.
+Is it much further?
 
-1
-00:01:18,000 --> 00:01:21,000
-we can't walk through a desert for three days
+7
+00:00:58,720 --> 00:01:02,855
+No. We have to cross the plane of hard
+Rock.
 
-1
-00:01:21,000 --> 00:01:23,000
-we'll get dehydrated.
+8
+00:01:02,880 --> 00:01:04,054
+It's a little desert.
 
-1
-00:01:23,000 --> 00:01:50,000
-Do what I do make your own sweat very well if you prefer we could use these that skimmers the drivers left them here when they completed their training with Dyneema
+9
+00:01:10,640 --> 00:01:12,400
+It should only take three days.
 
-1
-00:01:50,000 --> 00:02:05,000
-you have to charge them up with your own energy
+10
+00:01:12,400 --> 00:01:14,600
+What?
 
-1
-00:02:05,000 --> 00:02:26,000
-guys is it just me or is this good a total Euro
+11
+00:01:14,600 --> 00:01:15,440
+Come on.
 
-1
-00:02:26,000 --> 00:02:35,000
-you key down the destroyer is about to make mincemeat of you. You think I could drive
+12
+00:01:15,440 --> 00:01:16,831
+Don't just stand there!
 
-1
-00:02:35,000 --> 00:02:38,000
-it's okay I got it. You can get
+13
+00:01:17,069 --> 00:01:23,560
+Kido! We can't walk through a desert
+for three days. We'll get dehydrated!
 
-1
-00:02:38,000 --> 00:02:42,000
-some rest don't you trust me?
+14
+00:01:23,560 --> 00:01:26,842
+Do what I do.
+Lick your own sweat.
 
-1
-00:02:42,000 --> 00:02:44,000
-Core site trust you
+15
+00:01:30,640 --> 00:01:32,120
+Very well.
 
-1
-00:02:44,000 --> 00:03:17,000
-Hey guys, last one to the paper rock is a loser
+16
+00:01:32,120 --> 00:01:35,120
+If you prefer, we could use these.
 
-1
-00:03:17,000 --> 00:03:22,000
-teach go any faster
+17
+00:01:36,167 --> 00:01:39,637
+They're skimmers. The
+<i>Droovers</i> left them here when
 
-1
-00:03:22,000 --> 00:03:24,000
-the face to me.
+18
+00:01:39,662 --> 00:01:42,225
+they completed their
+training with Danima
 
-1
-00:03:24,000 --> 00:03:55,000
-No fetal weight
+19
+00:01:50,480 --> 00:01:53,166
+You have to charge them up
+with your own energy.
 
-1
-00:03:55,000 --> 00:04:04,000
-tadpole the wild lolly. Welcome to the great tower of bells. How can I help you?
+20
+00:02:04,000 --> 00:02:05,200
+Whoa!
 
-1
-00:04:04,000 --> 00:04:13,000
-Your Majesty. Suit odious is still alive and has traveled to a dimension named Massara.
+21
+00:02:05,200 --> 00:02:06,680
+Guys!
 
-1
-00:04:13,000 --> 00:04:19,000
-We had never heard of this place before. And we do not know why Sid modius has gone there.
+22
+00:02:06,680 --> 00:02:10,480
+Is it just me,
+or is this gonna totally rock?
 
-1
-00:04:19,000 --> 00:04:23,000
+23
+00:02:22,680 --> 00:02:24,600
+Yeah!
+
+24
+00:02:24,600 --> 00:02:25,880
+Ha ha ha ha!
+
+25
+00:02:25,880 --> 00:02:32,000
+Look out! You ruffians! <i>Kido The Destroyer</i>
+is about to make mincemeat off you!
+
+26
+00:02:33,160 --> 00:02:34,554
+You think I could drive?
+
+27
+00:02:35,640 --> 00:02:39,720
+It's okay. I got it. You
+can get some rest.
+
+28
+00:02:39,720 --> 00:02:41,800
+Don't you trust me?
+
+29
+00:02:41,800 --> 00:02:44,878
+Of course I trust you.
+
+30
+00:02:45,640 --> 00:02:50,696
+Hey, guys. Last one to
+the big rock is a loser!
+
+31
+00:03:17,160 --> 00:03:20,097
+Can't you any faster, "Hakuru"?
+
+32
+00:03:22,880 --> 00:03:24,960
+Leave this to me.
+
+33
+00:03:24,960 --> 00:03:28,640
+No! Kido wait! Oh!
+
+34
+00:03:55,800 --> 00:03:57,775
+Tanpo the Wadan
+
+35
+00:03:57,800 --> 00:03:58,800
+Lalit.
+
+36
+00:03:58,800 --> 00:04:02,280
+Welcome to the Great Tower of Beldzar.
+
+37
+00:04:03,040 --> 00:04:04,960
+How can I help you?
+
+38
+00:04:04,960 --> 00:04:12,840
+Your Majesty, Sidmodius is still alive! and
+has traveled to a dimension named Masara.
+
+39
+00:04:13,400 --> 00:04:15,960
+We had never heard of this place before.
+
+40
+00:04:15,960 --> 00:04:19,040
+And we do not know why
+Sidmodius has gone there.
+
+41
+00:04:19,880 --> 00:04:22,920
 We have come in search of answers.
 
-1
-00:04:23,000 --> 00:04:33,000
-Then you have come to the right place described I have worked for you,
+42
+00:04:23,960 --> 00:04:26,960
+Then you have come to the right place.
 
-1
-00:04:33,000 --> 00:04:47,000
-Your Majesty. That day you offered me sanctuary. I swore loyalty to you and to this library. It will be my pleasure to help you. Thank
+43
+00:04:31,320 --> 00:04:32,360
+Scribe.
 
-1
-00:04:47,000 --> 00:05:01,000
-you, but it is not for myself. I ask. I wish you to help our guests. lollies and your brother tampo
+44
+00:04:32,360 --> 00:04:34,160
+I have work for you.
 
-1
-00:05:01,000 --> 00:05:16,000
-Hello canto
+45
+00:04:34,160 --> 00:04:35,720
+Your Majesty.
 
-1
-00:05:16,000 --> 00:05:55,000
-gram sorry Your Majesty but I am afraid I can do nothing for them if tiempo needs to consult the library he can do it himself
+46
+00:04:35,720 --> 00:04:38,680
+The day you offered me sanctuary,
 
-1
-00:05:55,000 --> 00:06:01,000
-oh no this is horrible Hello
+47
+00:04:38,680 --> 00:04:42,560
+I swore loyalty to you
+and to this library.
 
-1
-00:06:01,000 --> 00:06:15,000
-Hello Is anyone there father son modius has turned them all into Yankees and he's taken them with him
+48
+00:04:43,520 --> 00:04:46,840
+It will be my pleasure to help you.
 
-1
-00:06:15,000 --> 00:06:27,000
-I don't think they've gone look at the footprints
+49
+00:04:47,680 --> 00:04:48,680
+Thank you.
 
-1
-00:06:27,000 --> 00:06:56,000
-We're surrounded
+50
+00:04:48,680 --> 00:04:51,680
+But it is not for myself I ask.
 
-1
-00:06:56,000 --> 00:07:14,000
-I say cool
+51
+00:04:52,000 --> 00:04:54,720
+I wish you to help our guests.
 
-1
-00:07:14,000 --> 00:07:23,000
-let's use the judo same force
+52
+00:04:54,720 --> 00:04:58,000
+Lilith and your brother Tambo.
 
-1
-00:07:23,000 --> 00:07:38,000
-there's not the weekend do
+53
+00:05:01,080 --> 00:05:04,080
+Hello, Kento.
 
-1
-00:07:38,000 --> 00:07:49,000
-coward
+54
+00:05:16,040 --> 00:05:19,040
+I am sorry, Your Majesty.
 
-1
-00:07:49,000 --> 00:08:11,000
-we go
+55
+00:05:20,640 --> 00:05:23,960
+But I am afraid I can do nothing for them.
 
-1
-00:08:11,000 --> 00:08:18,000
-yes
+56
+00:05:24,840 --> 00:05:27,840
+If tempo needs to consult the library,
 
-1
-00:08:18,000 --> 00:08:31,000
-Chino now was arch chance
+57
+00:05:28,720 --> 00:05:33,520
+he can do it himself. Oh.
 
-1
-00:08:31,000 --> 00:08:58,000
-to do Yes
+58
+00:05:44,360 --> 00:05:47,360
+Over there.
 
-1
-00:08:58,000 --> 00:09:11,000
-Father What are you doing with my crown Who were you? They friends of mine.
+59
+00:05:54,960 --> 00:05:57,960
+Oh, no.
 
-1
-00:09:11,000 --> 00:09:13,000
-They friend you
+60
+00:05:59,160 --> 00:06:01,280
+This is horrible.
 
-1
-00:09:13,000 --> 00:09:31,000
-did die really? By gradient prepare a banquet for our honored guests. What
+61
+00:06:01,280 --> 00:06:03,840
+Hello. Hello?
 
-1
-00:09:31,000 --> 00:09:47,000
-you clumsy Oh, even as a servant, you're a failure. And you say the seed mode is transformed us all. I don't believe it. It must have been those yellow bellied grow beards Shall
+62
+00:06:03,840 --> 00:06:04,440
+Is anyone.
 
-1
-00:09:47,000 --> 00:09:55,000
-I think it was the car tax nonsense. It was the film's Michelle rose crawling with those creeps now Now stop
+63
+00:06:04,440 --> 00:06:07,440
+There?
 
-1
-00:09:55,000 --> 00:010:11,000
-it. You're wasting time fighting amongst yourselves. When you should be standing together. Besides Ketos not clumsy. He fought alongside us. He helped release you all. Tito
+64
+00:06:09,440 --> 00:06:10,680
+Father.
 
-1
-00:010:11,000 --> 00:010:34,000
-don't make me love. The only thing he's ever released is gas. We call him Kido de sticker if only he was the Yaquis no is brothers keto. Pull me another drink? No,
+65
+00:06:10,680 --> 00:06:13,680
+Said Mobius
+has turned them all into Yuki's,
 
-1
-00:010:34,000 --> 00:010:45,000
-I've had enough. What? I'm going to save Kenan a key way of proof that I too, am fit to be a warrior.
+66
+00:06:14,200 --> 00:06:16,200
+and he's taken them with him.
 
-1
-00:010:45,000 --> 00:010:49,000
-You can't go who do the cooking.
+67
+00:06:16,200 --> 00:06:18,080
+I don't think they've gone.
 
-1
-00:010:49,000 --> 00:011:02,000
-Get your crown to do it
+68
+00:06:18,080 --> 00:06:21,080
+Look at the footprints.
 
-1
-00:011:02,000 --> 00:011:17,000
-well said, Dude you want to drive?
+69
+00:06:27,720 --> 00:06:28,640
+We're surrounded.
 
-1
-00:011:17,000 --> 00:011:35,000
-What was I think? You're right. There is something familiar about Massara. It's almost like we've been here before
+70
+00:06:32,440 --> 00:06:35,440
+By. Oh!
 
-1
-00:011:35,000 --> 00:011:37,000
-the moon have you found something.
+71
+00:06:37,800 --> 00:06:40,800
+Beautiful.
 
-1
-00:011:37,000 --> 00:012:03,000
-And the gods of the sun filled the sky with clouds. And when their work was done, they created the sun and the moon. This was the origin of Massara long before the dark Genesis, long before it became known as Planet Earth.
+72
+00:06:46,640 --> 00:06:50,400
+Oh. Oh!
 
-1
-00:012:03,000 --> 00:012:11,000
-By all the gods fit modius and the youngsters didn't travel to another dimension. They traveled in time.
+73
+00:06:56,760 --> 00:06:59,760
+Tai santo.
 
-1
-00:012:11,000 --> 00:00:58,000
-Exactly. Massara is Earth in the past
+74
+00:07:01,240 --> 00:07:04,240
+Koa. Soon you.
+
+75
+00:07:06,160 --> 00:07:09,160
+Soon.
+
+76
+00:07:13,680 --> 00:07:14,560
+Loan.
+
+77
+00:07:14,560 --> 00:07:17,560
+Let's use the Duo and force.
+
+78
+00:07:23,760 --> 00:07:26,760
+There's nothing we can do.
+
+79
+00:07:38,400 --> 00:07:41,400
+Coward! Go!
+
+80
+00:07:49,080 --> 00:07:52,920
+Here we go. Oh!
+
+81
+00:07:56,840 --> 00:07:59,120
+Oh, no!
+
+82
+00:07:59,120 --> 00:08:03,440
+Oh! Oh!
+
+83
+00:08:06,120 --> 00:08:11,880
+Oh! Yes!
+
+84
+00:08:17,920 --> 00:08:18,720
+Loaded.
+
+85
+00:08:18,720 --> 00:08:19,320
+Kino.
+
+86
+00:08:19,320 --> 00:08:22,320
+Now's our chance.
+
+87
+00:08:30,200 --> 00:08:31,320
+Yeah!
+
+88
+00:08:31,320 --> 00:08:33,920
+Duo send force.
+
+89
+00:08:33,920 --> 00:08:44,000
+Yeah. Yes.
+
+90
+00:08:56,320 --> 00:08:57,760
+Whoa!
+
+91
+00:08:57,760 --> 00:09:00,240
+Kido! Father!
+
+92
+00:09:00,240 --> 00:09:01,680
+Luke!
+
+93
+00:09:01,680 --> 00:09:04,800
+What are you doing with my crown?
+
+94
+00:09:07,360 --> 00:09:09,880
+You. Who were you?
+
+95
+00:09:09,880 --> 00:09:11,680
+They friends of mine.
+
+96
+00:09:11,680 --> 00:09:13,560
+They freed you?
+
+97
+00:09:13,560 --> 00:09:15,600
+Did they really?
+
+98
+00:09:15,600 --> 00:09:17,280
+Boy. Corinthian.
+
+99
+00:09:17,280 --> 00:09:20,280
+Prepare a banquet for, loaded guests.
+
+100
+00:09:20,560 --> 00:09:30,040
+What's, Oh!
+
+101
+00:09:31,240 --> 00:09:33,080
+Oh, you clumsy oaf!
+
+102
+00:09:33,080 --> 00:09:36,080
+Even as a servant, you're a failure.
+
+103
+00:09:36,840 --> 00:09:40,920
+And you say this seed
+mode is transformed. So.
+
+104
+00:09:41,640 --> 00:09:43,400
+I don't believe it.
+
+105
+00:09:43,400 --> 00:09:46,520
+It must be those
+yellow bellied grow beards.
+
+106
+00:09:46,560 --> 00:09:49,400
+So I think it was the contacts.
+
+107
+00:09:49,400 --> 00:09:50,560
+Nonsense.
+
+108
+00:09:50,560 --> 00:09:54,520
+It was the fumes
+race, crawling with those creeps.
+
+109
+00:09:54,560 --> 00:09:56,640
+No, no! Stop it!
+
+110
+00:09:56,640 --> 00:09:57,840
+You're wasting time
+
+111
+00:09:57,840 --> 00:10:01,440
+fighting amongst yourselves
+when you should be standing together.
+
+112
+00:10:02,000 --> 00:10:04,680
+Besides, Kato's not clumsy.
+
+113
+00:10:04,680 --> 00:10:07,200
+He fought alongside us.
+
+114
+00:10:07,200 --> 00:10:09,720
+He helped release you all.
+
+115
+00:10:09,720 --> 00:10:10,320
+Tito.
+
+116
+00:10:11,440 --> 00:10:14,320
+Don't make me love.
+
+117
+00:10:14,320 --> 00:10:17,440
+The only thing he's ever released is gas.
+
+118
+00:10:18,760 --> 00:10:20,520
+We call him Kido.
+
+119
+00:10:20,520 --> 00:10:23,520
+The stinger.
+
+120
+00:10:25,560 --> 00:10:27,760
+If only he was the Yaqui.
+
+121
+00:10:27,760 --> 00:10:30,040
+No. He's brothers.
+
+122
+00:10:30,040 --> 00:10:31,160
+Tito.
+
+123
+00:10:31,160 --> 00:10:31,920
+Pull me another.
+
+124
+00:10:31,920 --> 00:10:34,920
+Drink. No.
+
+125
+00:10:35,000 --> 00:10:37,280
+I've had enough.
+
+126
+00:10:37,280 --> 00:10:38,320
+What?
+
+127
+00:10:38,320 --> 00:10:41,240
+I'm going to save Kanan the key way.
+
+128
+00:10:41,240 --> 00:10:45,360
+And prove that I, too,
+am fit to be a warrior.
+
+129
+00:10:46,040 --> 00:10:47,920
+You can't go.
+
+130
+00:10:47,920 --> 00:10:49,640
+Who do the cooking?
+
+131
+00:10:49,640 --> 00:10:52,640
+Get your crown to do it.
+
+132
+00:11:02,640 --> 00:11:03,360
+Well said.
+
+133
+00:11:03,360 --> 00:11:06,360
+Dude.
+
+134
+00:11:07,000 --> 00:11:10,000
+You want to drive?
+
+135
+00:11:13,960 --> 00:11:16,440
+Yeah.
+
+136
+00:11:16,440 --> 00:11:17,840
+Whoa!
+
+137
+00:11:17,840 --> 00:11:20,840
+What was I thinking? Oh.
+
+138
+00:11:23,160 --> 00:11:24,440
+You're right.
+
+139
+00:11:24,440 --> 00:11:27,440
+There is something familiar about Mazara.
+
+140
+00:11:27,800 --> 00:11:30,800
+It's almost like we've been here before.
+
+141
+00:11:35,120 --> 00:11:36,560
+The moon.
+
+142
+00:11:36,560 --> 00:11:38,400
+Have you found something?
+
+143
+00:11:38,400 --> 00:11:43,000
+And the gods of the sin
+filled the sky with clouds.
+
+144
+00:11:43,760 --> 00:11:46,240
+And when their work was done,
+
+145
+00:11:46,240 --> 00:11:49,080
+they created the sun and the moon.
+
+146
+00:11:50,120 --> 00:11:53,120
+This was the origin of Mazara.
+
+147
+00:11:53,640 --> 00:11:56,640
+Long before the dark Genesis.
+
+148
+00:11:56,840 --> 00:11:59,600
+Long before it became known.
+
+149
+00:11:59,600 --> 00:12:02,600
+Us planet Earth.
+
+150
+00:12:02,920 --> 00:12:05,040
+But all the gods.
+
+151
+00:12:05,040 --> 00:12:06,000
+Sid mojitos.
+
+152
+00:12:06,000 --> 00:12:09,000
+And the youngsters
+didn't travel to another dimension.
+
+153
+00:12:09,280 --> 00:12:11,440
+They traveled in time.
+
+154
+00:12:11,440 --> 00:12:13,080
+Exactly.
+
+155
+00:12:13,080 --> 00:12:15,800
+Mazara is us.
+
+156
+00:12:15,800 --> 00:12:16,920
+In the past.
+
