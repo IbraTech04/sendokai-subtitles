@@ -25,19 +25,17 @@ Welcome to the Sendokai Champions Subtitles project! This repository aims to rec
 
 However, the English dub is now considered ***Lost Media*** after being taken down from their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), with no other official hosting. The production team had slowly been uploading the English dubs to their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampionsEnglish), until one day everything was taken down without any explanation.
 
-### 🔍 Current Availability
+Currently the only readily available dub of the series is the Spanish version, which is found on their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions). ~~The entirety of Season 1 in English was archived and uploaded to an [Unofficial YouTube Channel](https://www.youtube.com/@sendokaichampions7678)~~ This was taken down recently as well, however finding Season 2 is much more challenging. Since the production team had only uploaded the first 6 episodes of Season 2, the rest of the episodes are considered lost media. Those 6 episodes can be found on the depths of KissCartoon or BilliBilli, but their quality leaves much to be desired.
 
-Currently the only readily available dub of the series is the Spanish version, which is found on their [Official YouTube Channel](https://www.youtube.com/@SendokaiChampions). The entirety of Season 1 in English was archived and uploaded to an [Unofficial YouTube Channel](https://www.youtube.com/@sendokaichampions7678), however finding Season 2 is much more challenging. Since the production team had only uploaded the first 6 episodes of Season 2, the rest of the episodes are considered lost media. Those 6 episodes can be found on the depths of KissCartoon or BilliBilli, but the quality is not the best.
-
-### 🎯 Our Mission
+### Our Mission
 
 This project aims to recreate the English subtitles for the entire series, so that fans can enjoy the show in English once again!
 
-## 📊 Current Progress
+## Current Progress
 
 Currently, I'm working on creating English Subtitles based on the Spanish Dub for Season 2. Once I finish that, I'm considering creating Arabic subtitles for the redacted scenes in the Arabic Dub (Many of Zach, Chloe, and Lon's Scenes were redacted in the Arabic Dub due to them being considered inappropriate for the region). If you're interested in helping out, feel free to claim an episode in the `Issues` tab!
 
-### 📋 Status Legend
+### Status Legend
 
 | Status | Meaning | Description |
 |--------|---------|-------------|
@@ -64,7 +62,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 28 | [A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt) | 🟩 | Ibrahim Chehab |
 | 29 | [Danima*](./s2/en/29%20-%20Danima.en.srt) | 🟩 | Ibrahim Chehab |
 | 30 | [Yakis*](./s2/en/30%20-%20Yakis.en.srt) | 🟩 | Ibrahim Chehab |
-| 31 | [Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt) | 🟩 | Ryan Khan and Ibrahim Chehab |
+| 31 | [Trust Us, Lon](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt) | 🟩 | Ryan Khan and Ibrahim Chehab |
 | 32 | [Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt) | 🟩 | Ibrahim Chehab |
 | 33 | [Babysitter](./s2/en/33%20-%20Babysitter.en.srt) | 🟥 | - |
 | 34 | [An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt) | 🟥 | - |
@@ -113,7 +111,7 @@ See **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed information on how to co
 
 ## ⚡ BONUS! Subly Integration
 
-As alluded to in the [**Subly**](https://github.com/IbraTech04/subly) repository, this repository powers Subly's Sendokai Champions integration. If you're interested in an easy way to inject these subtitles into episodes, you can install the Subly extension, then simply open a Sendokai Champions episode on YouTube! 
+As alluded to in the [**Subly**](https://github.com/IbraTech04/subly) repository, this repository powers Subly's Sendokai Champions integration. If you're interested in an easy way to inject these subtitles into episodes, you can install the Subly extension, then simply open a Sendokai Champions episode on YouTube!
 
 ✨ **Subly will automatically detect the episode and inject the subtitles from this repository, allowing you to watch the episode with English subtitles!**
 
@@ -121,7 +119,11 @@ As alluded to in the [**Subly**](https://github.com/IbraTech04/subly) repository
 
 ## ⚠️ Disclaimer
 
-This project is not affiliated with Kotoc Productions, RTVE, Planeta Junior, Cartoon Network, or any other official entities associated with Sendokai Champions. It is a fan-driven effort to make the show accessible to English-speaking audiences.
+This project is **not** affiliated with Kotoc Productions, RTVE, Planeta Junior, Cartoon Network, or any other official entities associated with Sendokai Champions. It is a fan-driven effort to make the show accessible to English-speaking audiences.
+
+## 📜 License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the subtitles, but please give appropriate credit and do not use them for commercial purposes. For more information, see the [LICENSE](LICENSE) file.
 
 ---
 
@@ -131,6 +133,9 @@ This project is not affiliated with Kotoc Productions, RTVE, Planeta Junior, Car
 
 [🐛 Report Subtitling Issue](https://github.com/IbraTech04/sendokai-subtitles/issues) • [💬 Discussions](https://github.com/IbraTech04/sendokai-subtitles/discussions)
 
-<a href="https://github.com/IbraTech04/sendokai-subtitles">SendokaiSubtitles</a> © 2024 by <a href="https://github.com/IbraTech04">IbraTech04</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+---
+<div align="center">
+
+<a href="https://github.com/IbraTech04/sendokai-subtitles">SendokaiSubtitles</a> © 2024 by <a href="https://github.com/IbraTech04">Ibrahim Chehab</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 </div>
