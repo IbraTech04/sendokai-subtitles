@@ -37,7 +37,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 - [🟩] [Episode 28 - A New Adventure*](./s2/en/28%20-%20A%20New%20Adventure.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 29 - Danima*](./s2/en/29%20-%20Danima.en.srt) - Ibrahim Chehab
 - [🟩] [Episode 30 - Yakis*](./s2/en/30%20-%20Yakis.en.srt) - Ibrahim Chehab 
-- [🟨] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt) - Ryan Khan and Ibrahim Chehab
+- [🟩] [Episode 31 - Trust Us, Lon*](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt) - Ryan Khan and Ibrahim Chehab
 - [🟨] [Episode 32 - Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt) - Ibrahim Chehab 
 - [🟥] [Episode 33 - Babysitter](./s2/en/33%20-%20Babysitter.en.srt)
 - [🟥] [Episode 34 - An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)
