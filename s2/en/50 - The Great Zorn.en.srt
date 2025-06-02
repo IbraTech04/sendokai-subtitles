@@ -153,7 +153,7 @@ Nothing will stop them.
 37
 00:05:00,348 --> 00:05:03,729
 But only a true Hakuru
-can [something] the map
+can activate the map
 
 38
 00:05:04,080 --> 00:05:06,023
