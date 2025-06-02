@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Sendokai Champions Logo" width="400">
   
-  # Sendokai Champions Subtitles
+# Sendokai Champions Subtitles
   
   **Recreating English subtitles for the beloved animated series**
   
@@ -53,7 +53,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 <div align="center">
   
-![Overall Progress](https://img.shields.io/badge/Progress-65%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
+![Overall Progress](https://img.shields.io/badge/Progress-73%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
 
 </div>
 
@@ -72,7 +72,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 37 | [Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt) | 🟥 | - |
 | 38 | [I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt) | 🟥 | - |
 | 39 | [Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt) | 🟥 | - |
-| 40 | [The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt) | 🟨 | Ibrahim Chehab |
+| 40 | [The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt) | 🟩 | Ibrahim Chehab |
 | 41 | [The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt) | 🟩 | Ibrahim Chehab |
 | 42 | [A Hero For Masara](./s2/en/42%20-%20A%20Hero%20For%20Masara.en.srt) | 🟩 | Ibrahim Chehab |
 | 43 | [You Are Alone](./s2/en/43%20-%20You%20Are%20Alone.en.srt) | 🟩 | Ibrahim Chehab |
@@ -101,10 +101,9 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 ---
 
-
 ## 🤝 How to Contribute
 
-> 👋 Want to help bring Sendokai Champions to English-speaking audiences? 
+> 👋 Want to help bring Sendokai Champions to English-speaking audiences?
 
 See **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed information on how to contribute to this project.
 
