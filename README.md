@@ -4,6 +4,7 @@
   # Sendokai Champions Subtitles
   
   **Recreating English subtitles for the beloved animated series**
+  
   [![GitHub stars](https://img.shields.io/github/stars/ibratech04/sendokai-subtitles?style=flat&logo=github)](https://github.com/ibratech04/sendokai-subtitles/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/ibratech04/sendokai-subtitles?style=flat&logo=github)](https://github.com/ibratech04/sendokai-subtitles/network)
   [![GitHub issues](https://img.shields.io/github/issues/ibratech04/sendokai-subtitles?style=flat&logo=github)](https://github.com/ibratech04/sendokai-subtitles/issues)
