@@ -8,13 +8,13 @@ this little mark here?
 Right
 
 3
-00:00:42,206 --> 00:00:44,393
+00:00:42,081 --> 00:00:44,393
 And this red guy's a Yaki.
 
 4
 00:00:44,486 --> 00:00:48,727
 And if we follow the Yaki's
-trail. He'll lead us to Sidmodius.
+trail, he'll lead us to Sidmodius.
 
 5
 00:00:48,752 --> 00:00:50,267
@@ -22,7 +22,7 @@ Cool!
 
 6
 00:00:50,292 --> 00:00:53,909
-Yeah. You can tell he's the Hakuru
+Yeah. You can tell he's the <i>Hakuru</i>
 
 7
 00:00:56,465 --> 00:00:58,907
@@ -38,7 +38,7 @@ It looks like Kido can
 follow a trail too...
 
 10
-00:01:02,606 --> 00:01:03,806
+00:01:02,523 --> 00:01:03,723
 Or... something
 
 11
@@ -51,16 +51,16 @@ Oh, yeah.
 
 13
 00:01:13,246 --> 00:01:15,701
- This is all great and everything, but
+This is all great and everything, but
 
 14
 00:01:15,726 --> 00:01:17,265
 Is it much further?
 
 15
-00:01:17,290 --> 00:01:21,994
+00:01:17,290 --> 00:01:21,302
 According to the map, the
-Yakis shouldn't be...
+Yakis should be...
 
 16
 00:01:24,406 --> 00:01:25,691
@@ -72,317 +72,524 @@ Wow! This is worse than my bedroom!
 
 18
 00:01:33,931 --> 00:01:36,442
-Hey guys. Check this out
+Hey, guys! Check this out
 
 19
-00:01:41,967 --> 00:01:45,494
+00:01:41,943 --> 00:01:45,494
 Isn't that the helmet the
-marshal war during the final?
+Marshal wore during the final?
 
 20
-00:01:45,519 --> 00:01:47,212
-Yeah.
+00:01:45,560 --> 00:01:47,640
+Yeah,
 
 21
-00:01:47,646 --> 00:01:49,901
-The great Zorn's helmet
+00:01:47,640 --> 00:01:49,915
+The Great Zorn's helmet.
 
 22
-00:01:56,812 --> 00:01:57,845
+00:01:56,814 --> 00:01:57,561
 Uh oh
 
 23
-00:01:58,486 --> 00:02:00,647
-Looks like we found our friend
+00:01:58,453 --> 00:02:00,453
+Looks like we found our friend.
 
 24
-00:02:00,672 --> 00:02:04,000
-He's close by! I can feel it!
+00:02:00,600 --> 00:02:02,080
+He's close by!
 
 25
-00:02:04,000 --> 00:02:06,403
-I don't understand!
+00:02:02,080 --> 00:02:04,160
+I can feel it.
 
 26
-00:02:06,428 --> 00:02:07,548
-What's wrong?
+00:02:04,160 --> 00:02:05,423
+I don't understand.
 
 27
-00:02:08,326 --> 00:02:11,310
-The Yakis should be right here
+00:02:06,320 --> 00:02:08,160
+What's wrong?
 
 28
-00:03:03,603 --> 00:03:05,722
-Hit his energy center!
+00:02:08,160 --> 00:02:10,120
+The Yakis should be worried.
 
 29
-00:03:41,000 --> 00:03:43,236
-Where are you going, you one-eyed ape!
+00:02:10,120 --> 00:02:11,432
+Right here.
 
 30
-00:03:45,616 --> 00:03:47,264
-Quick, follow him!
+00:03:03,458 --> 00:03:04,560
+Hit his energy center!
 
 31
-00:04:02,743 --> 00:04:05,010
-Alright, we're ready to go!
+00:03:40,983 --> 00:03:41,840
+Where are you going?
 
 32
-00:04:05,686 --> 00:04:07,286
-What's wrong, Tanpo?
+00:03:41,840 --> 00:03:43,200
+You one-eyed ape!
 
 33
-00:04:07,311 --> 00:04:09,764
-I had a premonition.
+00:03:45,414 --> 00:03:47,224
+Quick! Follow him!
 
 34
-00:04:09,789 --> 00:04:13,975
-I think the youngsters are in danger.
+00:04:02,680 --> 00:04:05,680
+All right, we're ready to go.
 
 35
-00:04:14,000 --> 00:04:15,799
-I'm sure they are
+00:04:05,720 --> 00:04:07,360
+What's wrong, Tanpo?
 
 36
-00:04:15,824 --> 00:04:18,093
- They're Sendokai warriors.
+00:04:07,360 --> 00:04:10,080
+I had a premonition.
 
 37
-00:04:18,166 --> 00:04:23,849
-But you shouldn't worry about them.
-Because thanks to you, they're the best.
+00:04:10,080 --> 00:04:13,080
+I think the youngsters are in danger.
 
 38
-00:04:25,000 --> 00:04:28,287
-You're right! There's no time to waste.
+00:04:14,000 --> 00:04:15,880
+I'm sure they are.
 
 39
-00:04:28,286 --> 00:04:33,776
-We must discover why
-Sidmodius has gone to Massara.
+00:04:15,880 --> 00:04:18,400
+They're Sendokai warriors.
 
 40
-00:04:33,801 --> 00:04:36,393
-And where will we do that?
+00:04:18,400 --> 00:04:20,600
+But you shouldn't worry about them.
 
 41
-00:04:36,418 --> 00:04:40,408
-Where all the knowledge
-of the multiverse is stored
+00:04:20,600 --> 00:04:23,600
+Because thanks to you, they're the best.
 
 42
-00:04:40,433 --> 00:04:44,685
-In the great tower of
-the Beldzar dimension.
+00:04:24,960 --> 00:04:26,320
+You're right.
 
 43
-00:04:44,710 --> 00:04:47,343
-But isn't that where-
+00:04:26,320 --> 00:04:28,440
+There's no time to waste!
 
 44
-00:04:47,368 --> 00:04:52,376
-Yes, Lallith. That is where he is.
+00:04:28,440 --> 00:04:32,720
+We must discover
+why Sidmodius has gone to Masara!
 
 45
-00:04:56,047 --> 00:04:59,022
-I lost him! He's not on the map!
+00:04:33,800 --> 00:04:36,280
+And where will we do that?
 
 46
-00:04:59,047 --> 00:05:03,172
-Well, that least we still have
-the iguana with a mohawk
+00:04:36,280 --> 00:04:40,039
+Where all the knowledge of the multiverse
+is stored
 
 47
-00:05:03,197 --> 00:05:05,963
-Kido, what are you doing?
+00:04:40,920 --> 00:04:44,935
+In the great Tower of the <i>Beldzar</i> Dimension
 
 48
-00:05:06,126 --> 00:05:09,026
-Have you ever seen a Yaki attack a coconut?
+00:04:44,960 --> 00:04:47,280
+But, isn't that where-
 
 49
-00:05:09,126 --> 00:05:10,126
-No.
+00:04:47,280 --> 00:04:49,160
+Yes, Lalith.
 
 50
-00:05:10,286 --> 00:05:15,975
-Precisely! If the Yakis think I'm a
-coconut I'll be able to sneak up on them
+00:04:49,160 --> 00:04:52,160
+That is where he is.
 
 51
-00:05:16,000 --> 00:05:17,000
-unnoticed
+00:04:56,040 --> 00:04:57,400
+I lost him.
 
 52
-00:05:17,000 --> 00:05:19,878
-And attack!
+00:04:57,400 --> 00:04:58,960
+He's not on the map.
 
 53
-00:05:22,707 --> 00:05:24,209
-Hey, Zach!
+00:04:58,960 --> 00:05:02,440
+Well, at least
+we still have the iguana with the mohawk.
 
 54
-00:05:24,234 --> 00:05:27,330
-What you said about going to the movies?
+00:05:03,320 --> 00:05:06,040
+Kido, what are you doing?
 
 55
-00:05:27,355 --> 00:05:28,846
-Is that still on?
+00:05:06,040 --> 00:05:09,040
+Have you ever seen a Yaki attack a coconut?
 
 56
-00:05:31,247 --> 00:05:33,205
-Yeah- Yeah, sure
+00:05:09,160 --> 00:05:10,380
+No.
 
 57
-00:05:33,230 --> 00:05:34,247
-Great!
+00:05:10,404 --> 00:05:11,600
+Precisely!
 
 58
-00:05:34,286 --> 00:05:39,005
-Because it would be a shame if
-we didn't get to go out on our date
+00:05:11,600 --> 00:05:14,400
+If the Yakis think I'm a coconut
 
 59
-00:05:39,030 --> 00:05:41,219
-I'm not going to let you escape
+00:05:14,400 --> 00:05:19,175
+I'll be able to sneak up on them
+unnoticed and attack!
 
 60
-00:05:42,260 --> 00:05:43,686
-Wow, I-
+00:05:22,698 --> 00:05:24,216
+Hey Zach!
 
 61
-00:05:43,806 --> 00:05:45,311
-That's right Yaki!
+00:05:24,240 --> 00:05:27,240
+What you said about going to the movies.
 
 62
-00:05:45,336 --> 00:05:48,478
-I'm not going to let you escape!
+00:05:27,320 --> 00:05:28,320
+Is that still on?
 
 63
-00:05:49,846 --> 00:05:50,962
-What were you saying?
+00:05:31,280 --> 00:05:31,840
+Yeah.
 
 64
-00:05:51,086 --> 00:05:53,829
-Nothing, forget it
+00:05:31,840 --> 00:05:33,280
+Yeah, sure.
 
 65
-00:05:55,766 --> 00:05:56,766
-Don't move!
+00:05:33,280 --> 00:05:34,240
+Great.
 
 66
-00:05:56,926 --> 00:05:58,975
-Look at that footprint!
+00:05:34,240 --> 00:05:38,400
+Because it would be a shame
+if we didn't get to go out on our date.
 
 67
-00:05:59,429 --> 00:06:00,693
-Is it a Yaqi?
+00:05:39,040 --> 00:05:42,040
+I'm not going to let you escape.
 
 68
-00:06:01,126 --> 00:06:02,126
-No
+00:05:42,040 --> 00:05:43,760
+Wow, I-
 
 69
-00:06:02,151 --> 00:06:03,742
- It looks like a smiley face!
+00:05:43,760 --> 00:05:45,200
+That's right, Yaki!
 
 70
-00:06:07,166 --> 00:06:08,846
-Isn't that hillarious?
+00:05:45,200 --> 00:05:47,616
+I'm not going to let you escape.
 
 71
-00:06:11,000 --> 00:06:39,000
-Hey, I see him there's a red dot and another and another
+00:05:49,800 --> 00:05:51,240
+What were you saying?
 
 72
-00:06:39,000 --> 00:06:59,000
-it's an ambush attack
+00:05:51,240 --> 00:05:52,880
+Nothing.
 
 73
-00:06:59,000 --> 00:07:08,000
-we need more dose
+00:05:52,880 --> 00:05:53,821
+Forget it.
 
 74
-00:07:08,000 --> 00:07:16,000
-coconut
+00:05:55,680 --> 00:05:57,000
+Don't move!
 
 75
-00:07:16,000 --> 00:07:19,000
-that yucky I think he's level two
+00:05:57,000 --> 00:05:59,400
+Look at that footprint.
 
 76
-00:07:19,000 --> 00:07:26,000
-yeah I don't see any difference
+00:05:59,400 --> 00:06:01,000
+Is it a yaki?
 
 77
-00:07:26,000 --> 00:07:40,000
-sin
+00:06:01,000 --> 00:06:03,699
+No, it looks like a smiley face.
 
 78
-00:07:40,000 --> 00:07:51,000
-okay so he's different
+00:06:07,031 --> 00:06:08,769
+Isn't that hillarious?
 
 79
-00:07:51,000 --> 00:08:01,000
-high priestess the other yakkers with a yes your brothers
+00:06:11,240 --> 00:06:14,240
+Hey, I see him!
 
 80
-00:08:01,000 --> 00:08:19,000
-Cana key way it's made Kido your brother you crazy lizard we just want to help you guys
+00:06:14,480 --> 00:06:16,600
+There's a red dot
 
 81
-00:08:19,000 --> 00:08:47,000
-out this is bad
+00:06:16,600 --> 00:06:17,575
+and another.
 
 82
-00:08:47,000 --> 00:08:56,000
-kid behind you
+00:06:19,560 --> 00:06:22,560
+And another.
 
 83
-00:08:56,000 --> 00:09:14,000
-know guys retreat
+00:06:39,840 --> 00:06:41,280
+It's an ambush!
 
 84
-00:09:14,000 --> 00:09:46,000
-don't scare me let's go I'm almost got I said let's go
+00:06:41,280 --> 00:06:41,960
+Quick!
 
 85
-00:09:46,000 --> 00:09:58,000
-Are you okay? Sure. There's nothing You're a coward. We could have beaten them. It was too dangerous.
+00:06:41,960 --> 00:06:44,880
+Attack!
 
 86
-00:09:58,000 --> 00:10:09,000
-I'm not going to risked my friends lives for nothing. Or yours
+00:06:59,000 --> 00:07:02,000
+We need more dos!
 
 87
-00:10:09,000 --> 00:10:10,000
-What happened?
+00:07:06,640 --> 00:07:07,600
+I'm a coconut
 
 88
-00:10:10,000 --> 00:10:17,000
-Three Yaquis surrounded us. One of them was level two.
+00:07:07,600 --> 00:07:08,920
+I'm a coconut
 
 89
-00:10:17,000 --> 00:10:31,000
-I see them you will have to be stronger. I will train you. I will show you the most powerful techniques ever seen on Massara.
+00:07:16,360 --> 00:07:17,600
+That yaki...
 
 90
-00:10:31,000 --> 00:10:40,000
-I don't believe it. The Sorcerer's suffer said herself is going to train us
+00:07:17,600 --> 00:07:19,356
+I think he's level two. Yeah.
 
 91
-00:10:40,000 --> 00:10:47,000
-that yaki is going to learn not to mess with yet. Oh
+00:07:19,381 --> 00:07:23,400
+Yeah... I don't see any difference.
 
 92
-00:10:47,000 --> 00:11:04,000
-stay calm. Go home now. You will need to rest this is only the beginning
+00:07:25,800 --> 00:07:28,822
+Zet-Sen shot!
 
 93
-00:11:04,000 --> 00:11:39,000
-good work my weakest. This is the time to crush those humans. Forget them. I would ask that question. First, you must grow stronger. He will travel Massara destroying every village in your path and absorbing all the energy of the inhabitants
+00:07:40,320 --> 00:07:42,840
+Okay, so he's different.
 
 94
-00:11:39,000 --> 00:00:58,000
-I'm starting to like this planet
+00:07:50,720 --> 00:07:52,800
+A high priestess.
+
+95
+00:07:52,825 --> 00:07:55,337
+The other Yakis. Were they?
+
+96
+00:07:55,654 --> 00:07:56,571
+Yes
+
+97
+00:07:57,120 --> 00:07:58,987
+Your brothers.
+
+98
+00:08:01,880 --> 00:08:02,800
+Keenan!
+
+99
+00:08:02,800 --> 00:08:03,467
+Kiway! It's me. Kido!
+
+100
+00:08:03,492 --> 00:08:05,736
+It's me, Kido!
+
+101
+00:08:05,760 --> 00:08:07,000
+Your brother!
+
+102
+00:08:07,000 --> 00:08:08,710
+You crazy lizard!
+
+103
+00:08:11,520 --> 00:08:13,800
+We just want to help you
+
+104
+00:08:13,800 --> 00:08:16,120
+Tai-sen Trail!
+
+105
+00:08:31,320 --> 00:08:33,360
+This is bad.
+
+106
+00:08:34,880 --> 00:08:36,200
+Goa-Sen Sheild!
+
+107
+00:08:47,200 --> 00:08:50,200
+Kiet! Behind you!
+
+108
+00:08:54,373 --> 00:08:55,595
+Kiet!
+
+109
+00:08:56,000 --> 00:08:56,902
+No!
+
+110
+00:08:57,365 --> 00:09:00,365
+Guys, retreat!
+
+111
+00:09:14,040 --> 00:09:15,384
+You don't scare me.
+
+112
+00:09:17,560 --> 00:09:18,360
+Lon!
+
+113
+00:09:18,360 --> 00:09:20,120
+Let's go.
+
+114
+00:09:20,120 --> 00:09:22,920
+I've almost got him.
+
+115
+00:09:22,920 --> 00:09:25,157
+I said let's go!
+
+116
+00:09:45,945 --> 00:09:46,880
+Are you okay?
+
+117
+00:09:48,840 --> 00:09:50,400
+Sure.
+
+118
+00:09:50,400 --> 00:09:51,844
+It's nothing.
+
+119
+00:09:53,320 --> 00:09:55,080
+You're a coward.
+
+120
+00:09:55,080 --> 00:09:57,000
+We could have beaten them.
+
+121
+00:09:57,000 --> 00:09:58,920
+It was too dangerous.
+
+122
+00:09:58,920 --> 00:10:02,135
+I'm not going to risk
+my friend's lives for nothing.
+
+123
+00:10:03,167 --> 00:10:05,213
+Or yours?
+
+124
+00:10:08,920 --> 00:10:10,920
+What happened?
+
+125
+00:10:10,920 --> 00:10:13,320
+Three. Yuki's surrounded us.
+
+126
+00:10:13,320 --> 00:10:15,415
+One of them was level two.
+
+127
+00:10:17,040 --> 00:10:19,520
+I see.
+
+128
+00:10:19,520 --> 00:10:22,520
+Then you will have to be stronger.
+
+129
+00:10:22,800 --> 00:10:24,720
+I will train you.
+
+130
+00:10:24,720 --> 00:10:31,815
+I will show you the most powerful
+techniques ever een on Masara.
+
+131
+00:10:31,840 --> 00:10:34,360
+I don't believe it!
+
+132
+00:10:34,360 --> 00:10:39,106
+The Sorceress of the Sen
+herself is going to train us!
+
+133
+00:10:40,504 --> 00:10:44,765
+That Yaki's going to
+learn not to mess with Kiet!
+
+134
+00:10:47,640 --> 00:10:49,560
+Stay calm.
+
+135
+00:10:49,560 --> 00:10:51,600
+Go home now.
+
+136
+00:10:51,600 --> 00:10:53,840
+You need to rest.
+
+137
+00:10:53,840 --> 00:10:55,932
+This is only the beginning.
+
+138
+00:11:03,640 --> 00:11:07,320
+It could work, my little ones.
+
+139
+00:11:07,320 --> 00:11:10,320
+Now they're at their weakest.
+
+140
+00:11:10,345 --> 00:11:13,800
+This is the time to crush those humans.
+
+141
+00:11:14,240 --> 00:11:16,200
+Forget them!
+
+142
+00:11:16,200 --> 00:11:19,200
+What? Out of the question!
+
+143
+00:11:19,440 --> 00:11:22,440
+First, you must grow stronger.
+
+144
+00:11:27,000 --> 00:11:37,247
+You will travel Masara destroying every village in your
+path and absorbing all the energy of the inhabitants.
+
+145
+00:11:39,440 --> 00:11:43,760
+I'm starting to like this plan of yours.
 
