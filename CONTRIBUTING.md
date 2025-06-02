@@ -2,7 +2,7 @@
 
 Ready to help out? Great! Here's how you can get started:
 
-**This repository relies on GitFlow**. If you're not familiar with Git, I reccomend you read up on it before contributing. You can find a great guide [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
+**This repository relies on GitFlow**. If you're not familiar with Git, I recommend you read up on it before contributing. You can find a great guide [here](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow).
 
 ## Step 1: Claim an Episode
 
@@ -14,7 +14,7 @@ You'll need to acquire the Spanish version of the episode you're working on. You
 
 *Note: You are more than welcome to use any other dub to create the subtitles, however do keep in mind that some versions (notably the Arabic dub) omit scenes from the original Spanish version. This can make it difficult to subtitle the episode, as you may not have all the necessary context, and may create incomplete subtitles.*
 
-You'll also need a `.srt` editor. I personally reccomend and use [Subtitle Edit](https://www.nikse.dk/subtitleedit/), but you can use any `.srt` editor you like.
+You'll also need a `.srt` editor. I personally recommend and use [Subtitle Edit](https://www.nikse.dk/subtitleedit/), but you can use any `.srt` editor you like.
 
 ## Step 3: Clone this repository
 
