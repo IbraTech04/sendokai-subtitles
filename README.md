@@ -66,7 +66,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 31      | [Trust Us, Lon](./s2/en/31%20-%20Trust%20Us,%20Lon.en.srt)                               | 🟩     | Ryan Khan and Ibrahim Chehab |
 | 32      | [Kido the Destroyer*](./s2/en/32%20-%20Kido%20the%20Destroyer.en.srt)                    | 🟩     | Ibrahim Chehab               |
 | 33      | [Babysitter](./s2/en/33%20-%20Babysitter.en.srt)                                         | 🟩     | Ibrahim Chehab               |
-| 34      | [An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)                   | 🟨     | Ibrahim Chehab               |
+| 34      | [An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)                   | 🟩     | Ibrahim Chehab               |
 | 35      | [Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt)             | 🟨     | Ibrahim Chehab               |
 | 36      | [A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt)                               | 🟨     | Ibrahim Chehab               |
 | 37      | [Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)                             | 🟨     | Ibrahim Chehab               |
