@@ -78,7 +78,7 @@ Kido, you'll have to fight for us.
 
 20
 00:02:19,980 --> 00:02:21,360
-What?  But I...
+What? But I...
 
 21
 00:02:22,000 --> 00:02:28,720
@@ -99,7 +99,7 @@ Caramba!! The Short Kiwun Has
 out-played the Human Warrior!!
 
 25
-00:02:53,460 --> 00:02:55,480
+00:02:53,460 --> 00:02:55,479
 What do we have here, huh?
 
 26
@@ -211,13 +211,13 @@ Loneliness
 
 51
 00:06:42,860 --> 00:06:47,956
-Everyone Has Fallen. And
-Now you're the only one left
+They've all fallen, and
+now only you remain.
 
 52
 00:06:47,981 --> 00:06:52,330
-That's What My Life Consists
-Of, and now yours too!
+If that's what my life consists
+of, then yours does too!
 
 53
 00:06:58,440 --> 00:07:00,440
@@ -232,7 +232,7 @@ Zak!
 Sho-Sen Fire!
 
 56
-00:07:10,700 --> 00:07:11,420
+00:07:10,700 --> 00:07:11,700
 No!
 
 57
@@ -253,11 +253,11 @@ One of the Kiwuns has sacrificed
 himself to protect his teammate!!
 
 61
-00:07:47,100 --> 00:07:47,740
+00:07:47,100 --> 00:07:48,100
 Kido!
 
 62
-00:07:50,400 --> 00:07:51,360
+00:07:50,400 --> 00:07:51,400
 Kiwey
 
 63
@@ -281,181 +281,177 @@ You are alone!
 No Lon, You don't understand
 
 68
-00:08:19,520 --> 00:08:22,949
-Precisely in the darkest hours
+00:08:19,520 --> 00:08:25,726
+It's precisely in the darkest hours
+that you feel someone is by your side.
 
 69
-00:08:22,974 --> 00:08:25,726
-It's when you feel the most that
-there is someone by your side.
+00:08:25,751 --> 00:08:33,751
+Listen to this and don't forget: A Sendokai
+Warrior is never alone if he has a team!
 
 70
-00:08:25,751 --> 00:08:34,863
-Listen to this and don't forget: A Sendokai
-Warrior is never alone if he has a team
-
-71
 00:08:46,569 --> 00:08:48,180
 That's impossible! How-
 
-72
+71
 00:08:48,368 --> 00:08:50,673
 Nero-Sen Fusion!
 
-73
-00:09:47,688 --> 00:09:56,500
+72
+00:09:47,688 --> 00:09:55,688
 Incredible! When it seemed
 impossible, Team Kiwun has won the fight!!
 
-74
-00:10:03,780 --> 00:10:04,320
+73
+00:10:03,780 --> 00:10:04,780
 Zak!
 
-75
-00:10:05,080 --> 00:10:05,858
+74
+00:10:05,080 --> 00:10:06,080
 Kido!
 
-76
+75
 00:10:07,371 --> 00:10:09,244
 Zak, are you okay?
 
-77
+76
 00:10:09,720 --> 00:10:14,000
 I'm alright, don't worry about me.
-the Kiwuns have taken the worst part.
+The Kiwuns have taken the worst part.
 
-78
+77
 00:10:15,000 --> 00:10:16,351
 Kido...
 
-79
+78
 00:10:16,376 --> 00:10:19,360
 I think there won't
 be any Lenguaconga today
 
-80
+79
 00:10:20,280 --> 00:10:24,920
 Kido... I... I want to
 tell you something... I
 
-81
+80
 00:10:25,740 --> 00:10:31,440
 haven't always been fair to you,
 sometimes I... I don't know how to say
 
-82
+81
 00:10:31,981 --> 00:10:33,020
 I'm sorry...?
 
-83
+82
 00:10:33,458 --> 00:10:35,540
 Alright, alright. I forgive you!
 
-84
+83
 00:10:35,715 --> 00:10:38,560
 No Dad, that's what
 you're trying to say!
 
-85
+84
 00:10:38,860 --> 00:10:41,661
 Ah! Yes it's true! That's it
 
-86
+85
 00:10:45,820 --> 00:10:49,360
 Kido, you've behaved like a true Warrior!
 
-87
+86
 00:10:56,000 --> 00:11:01,919
 Poor Naives! Your Joy will not last long!
 
-88
+87
 00:11:01,944 --> 00:11:09,688
 The Humans are eliminated and
 these Kiwuns will take months to recover.
 
-89
+88
 00:11:09,713 --> 00:11:15,938
 There is only one warrior left
 to face me! Good Luck, Zak...
 
-90
+89
 00:11:20,260 --> 00:11:24,660
 He May Have Become Very
 Strong. But He's Still a Vermin!
 
-91
+90
 00:11:25,180 --> 00:11:32,500
 Still, you're right. The Kiwuns
 can't fight, we only have Zak left
 
-92
+91
 00:11:33,864 --> 00:11:40,238
-...Unless we abide by Kronyan's
+Unless we abide by Kronyan's
 Law and you join Team Kiwun!
 
-93
+92
 00:11:40,280 --> 00:11:43,288
 That is, if you accept
 me back into the team...
 
-94
+93
 00:11:43,934 --> 00:11:45,640
 That's it, It's done dude!
 
-95
+94
 00:11:45,820 --> 00:11:47,860
 Well of course we accept you!
 
-96
+95
 00:11:48,132 --> 00:11:50,600
 You've always been Our Hakuru, Zak
 
-97
+96
 00:11:56,384 --> 00:12:03,320
 The team fights together again...
 Together, we will defeat Sidmodius!!!
 
-98
+97
 00:12:03,345 --> 00:12:07,003
 Yes!
 
-99
+98
 00:12:11,460 --> 00:12:14,580
 Surrender! I do not want to hurt you!
 
-100
+99
 00:12:16,900 --> 00:12:19,980
 That's why you and I are so different!!
 
-101
+100
 00:12:30,640 --> 00:12:31,640
 What?
 
-102
+101
 00:12:35,300 --> 00:12:37,300
 And That's Why I Win!
 
-103
+102
 00:13:01,720 --> 00:13:04,780
-You see?  In the end You joined Me
+You see? In the end You joined Me
 
-104
+103
 00:13:17,171 --> 00:13:18,700
 We can't leave Lon Here
 
-105
+104
 00:13:19,140 --> 00:13:22,180
-Are you serious?!  After what he's done?!
+Are you serious?! After what he's done?!
 
-106
+105
 00:13:22,360 --> 00:13:25,080
 He Needs help. Where is he?
 
-107
+106
 00:13:35,400 --> 00:13:36,540
 I hate you all!
 
-108
+107
 00:13:37,760 --> 00:13:39,820
 I hate you all!
 
