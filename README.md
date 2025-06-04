@@ -53,7 +53,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 <div align="center">
   
-![Overall Progress](https://img.shields.io/badge/Progress-76%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
+![Overall Progress](https://img.shields.io/badge/Progress-88%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
 
 </div>
 
