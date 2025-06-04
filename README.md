@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/logo.png" alt="Sendokai Champions Logo" width="400">
   
-# Sendokai Champions Subtitles
+# SendokaiSubtitles
   
   **Recreating English subtitles for the beloved animated series**
   
@@ -40,12 +40,12 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 | Status | Meaning | Description |
 |--------|---------|-------------|
-| 🟩 | **Completed** | The subtitles for this particular episode are complete and ready to be used |
-| 🟦 | **Abandoned** | The subtitles for this particular episode are incomplete, and the person working on them has abandoned the project. If you're interested in helping out, feel free to claim it in the `Issues` tab! |
+| 🟩 | **Completed** | The subtitles for this particular episode are complete and ready to be used! |
+| 🟦 | **Pending Review** | The subtitles for this episode are mostly complete, however require a second watch-through to ensure quality | 
 | 🟨 | **In Progress** | Someone has claimed this episode and is currently working on it. Check the `Issues` tab to see who's working on it! |
 | 🟥 | **Not Started** | No one has claimed this episode yet. If you're interested in helping out, feel free to claim it in the `Issues` tab! |
 
-> **📝 Note:** Episodes marked with \* have a surviving English dub, and are much easier to subtitle. It's recommended to leave these episodes for last, as they're the easiest to subtitle. It may not end up being necessary to subtitle them at all, as the English dub is already available.
+> **📝 Note:** Episodes marked with \* have a surviving English dub
 
 ---
 
@@ -97,7 +97,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | Content                                                                          | Language | Status | Contributor                |
 |----------------------------------------------------------------------------------|----------|--------|----------------------------|
 | [Sengate - English Subs](./sengate/en/Sendokai%20Champions%20-%20Sengate.en.srt) | English  | 🟩     | Someone at Kotoc, probably |
-| [Sengate - Arabic Subs](./sengate/ar/Sendokai%20Champions%20-%20Sengate.ar.srt)  | Arabic   | 🟨     | Ibrahim Chehab             |
+| [Sengate - Arabic Subs](./sengate/ar/Sendokai%20Champions%20-%20Sengate.ar.srt)  | Arabic   | 🟦     | Ibrahim Chehab             |
 
 
 ---
@@ -137,6 +137,6 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 ---
 <div align="center">
 
-<a href="https://github.com/IbraTech04/sendokai-subtitles">SendokaiSubtitles</a> © 2024 by <a href="https://github.com/IbraTech04">Ibrahim Chehab</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/IbraTech04/sendokai-subtitles">SendokaiSubtitles</a> © 2025 by <a href="https://github.com/IbraTech04">Ibrahim Chehab</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 </div>
