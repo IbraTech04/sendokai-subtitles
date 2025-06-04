@@ -68,7 +68,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 33      | [Babysitter](./s2/en/33%20-%20Babysitter.en.srt)                                         | 🟩     | Ibrahim Chehab               |
 | 34      | [An Unbreakable Team](./s2/en/34%20-%20An%20Unbreakable%20Team.en.srt)                   | 🟩     | Ibrahim Chehab               |
 | 35      | [Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt)             | 🟩     | Ibrahim Chehab               |
-| 36      | [A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt)                               | 🟨     | Ibrahim Chehab               |
+| 36      | [A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt)                               | 🟩     | Ibrahim Chehab               |
 | 37      | [Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)                             | 🟨     | Ibrahim Chehab               |
 | 38      | [I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)             | 🟨     | Ibrahim Chehab               |
 | 39      | [Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt)                             | 🟩     | Ibrahim Chehab               |
