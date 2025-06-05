@@ -53,7 +53,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 
 <div align="center">
   
-![Overall Progress](https://img.shields.io/badge/Progress-88%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
+![Overall Progress](https://img.shields.io/badge/Progress-100%25-blue?style=flat&logo=appveyor&logoColor=white&color=blue)
 
 </div>
 
@@ -70,7 +70,7 @@ Currently, I'm working on creating English Subtitles based on the Spanish Dub fo
 | 35      | [Duo-Sen Lightning Bolt](./s2/en/35%20-%20Duo-Sen%20Lightning%20Bolt.en.srt)             | 🟩     | Ibrahim Chehab               |
 | 36      | [A Good Leader](./s2/en/36%20-%20A%20Good%20Leader.en.srt)                               | 🟩     | Ibrahim Chehab               |
 | 37      | [Uncertain Times](./s2/en/37%20-%20Uncertain%20Times.en.srt)                             | 🟩     | Ibrahim Chehab               |
-| 38      | [I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)             | 🟨     | Ibrahim Chehab               |
+| 38      | [I'll Never Forget You](./s2/en/38%20-%20I'll%20Never%20Forget%20You.en.srt)             | 🟩     | Ibrahim Chehab               |
 | 39      | [Stupid Sendokai](./s2/en/39%20-%20Stupid%20Sendokai.en.srt)                             | 🟩     | Ibrahim Chehab               |
 | 40      | [The First Great Tournament](./s2/en/40%20-%20The%20First%20Great%20Tournament.en.srt)   | 🟩     | Ibrahim Chehab               |
 | 41      | [The Norkingos](./s2/en/41%20-%20The%20Norkingos.en.srt)                                 | 🟩     | Ibrahim Chehab               |

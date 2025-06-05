@@ -1,673 +1,588 @@
 1
-00:00:47,200 --> 00:00:48,360
-You. You. You.
+00:00:50,560 --> 00:00:52,385
+Zak, where's your sister?
 
 2
-00:00:48,360 --> 00:00:50,560
-You. You.
+00:00:52,410 --> 00:00:54,668
+I asked you to watch her for just a second.
 
 3
-00:00:50,560 --> 00:00:52,280
-Zack. Where's your sister?
-
-4
-00:00:52,280 --> 00:00:55,040
-I asked you to watch her. Just a second.
-
-5
-00:00:55,040 --> 00:00:58,040
+00:00:55,040 --> 00:00:56,528
 Yes, you did.
 
+4
+00:01:06,090 --> 00:01:06,770
+Ona!
+
+5
+00:01:13,677 --> 00:01:14,856
+Calm down
+
 6
-00:01:06,000 --> 00:01:14,400
-One. Calm down.
+00:01:14,880 --> 00:01:17,080
+We were just worried about you
 
 7
-00:01:14,880 --> 00:01:17,080
-It was just a scare.
+00:01:17,080 --> 00:01:19,379
+Can you tell me what you were thinking?
 
 8
-00:01:17,080 --> 00:01:20,080
-Can you tell me what you were thinking? Me.
-
-9
-00:01:20,240 --> 00:01:24,760
+00:01:20,240 --> 00:01:24,801
 When you're looking after your sister,
 you can't have your mind on other things.
 
-10
-00:01:26,600 --> 00:01:29,600
+9
+00:01:26,600 --> 00:01:27,575
 I'm sorry.
 
+10
+00:01:38,470 --> 00:01:40,825
+Well, we're here-
+
 11
-00:01:38,400 --> 00:01:41,400
-Well, we're here.
+00:01:51,278 --> 00:01:52,760
+Kido, what's going on?
 
 12
-00:01:46,120 --> 00:01:51,640
-Okay. Tino.
+00:01:52,760 --> 00:01:56,375
+The villages of Masara are
+accusing each other of the Yaquis.
 
 13
-00:01:51,720 --> 00:01:52,760
-What's going on?
+00:01:56,400 --> 00:01:58,480
+And of the death of Danima
 
 14
-00:01:52,760 --> 00:01:56,240
-The villages further back
-are accusing each other of the Yaquis.
+00:01:58,480 --> 00:02:01,695
+You have released the Yaki plague!
 
 15
-00:01:56,400 --> 00:01:58,480
-And of the death of. Niña.
+00:02:01,720 --> 00:02:04,720
+You've always wanted our land!
 
 16
-00:01:58,480 --> 00:01:59,920
-You have. Freed yourselves.
-
-17
-00:01:59,920 --> 00:02:01,720
-That Yaqui plaque.
-
-18
-00:02:01,720 --> 00:02:04,720
-You've always wanted our land.
-
-19
-00:02:04,880 --> 00:02:06,560
+00:02:04,880 --> 00:02:06,535
 Don't be stupid.
 
-20
-00:02:06,560 --> 00:02:09,560
-So have we. They attacked us.
+17
+00:02:06,560 --> 00:02:08,989
+We've been attacked too!
 
-21
-00:02:09,720 --> 00:02:12,560
+18
+00:02:09,782 --> 00:02:11,879
 I hate neighborhood meetings.
 
+19
+00:02:12,286 --> 00:02:13,605
+<i>Don't like to me</i>
+
+20
+00:02:13,630 --> 00:02:14,880
+What are you doing?
+
+21
+00:02:14,880 --> 00:02:18,240
+We told you that all
+this is Sidmodius' fault!
+
 22
-00:02:12,560 --> 00:02:14,880
-I see. What are you doing?
+00:02:18,583 --> 00:02:22,200
+And I told you that I
+don't know any Sidmodius!
 
 23
-00:02:14,880 --> 00:02:18,240
-We told you that all this is God's fault.
+00:02:22,440 --> 00:02:27,400
+But ever since you arrived nothing
+but misfortune has happened.
 
 24
-00:02:18,360 --> 00:02:22,200
-And I told you that I don't know any God.
-
-25
-00:02:22,440 --> 00:02:27,400
-But ever since you arrived
-nothing but misfortune has happened.
-
-26
-00:02:28,440 --> 00:02:32,000
+00:02:29,075 --> 00:02:32,255
 Yes. Get out of here, or I'll kick you out.
 
-27
+25
 00:02:32,280 --> 00:02:34,000
 But you don't have any legs.
 
-28
-00:02:34,000 --> 00:02:36,840
+26
+00:02:34,000 --> 00:02:39,263
 Well, I'll shine really brightly
-
-29
-00:02:36,840 --> 00:02:39,840
 and it'll sting your eyes.
 
-30
-00:02:40,560 --> 00:02:43,560
+27
+00:02:40,560 --> 00:02:43,615
 These kids can't be to blame.
 
-31
+28
 00:02:43,640 --> 00:02:46,640
-I say it was the deities.
+I say it was the Deades!
 
-32
-00:02:46,680 --> 00:02:49,680
-They're not real Marianas.
+29
+00:02:46,680 --> 00:02:49,895
+They're not real Masarians!
 
-33
+30
 00:02:49,920 --> 00:02:52,640
 Listen, we've been here for centuries.
 
-34
+31
 00:02:52,640 --> 00:02:55,200
-We're as Marian as you are.
+We're as Masarian as you are.
+
+32
+00:02:55,200 --> 00:03:01,560
+To me, you are invaders, and
+I deal with invadors with war!
+
+33
+00:03:12,560 --> 00:03:19,036
+You should be ashamed,
+fighting where Danima just died.
+
+34
+00:03:27,435 --> 00:03:31,005
+Everything is going as planned.
 
 35
-00:02:55,200 --> 00:02:57,600
-To me, you're invaders.
+00:03:31,030 --> 00:03:33,481
+Let's get on with the action
 
 36
-00:02:57,600 --> 00:03:01,360
-And I rest my case with the cart.
+00:03:33,506 --> 00:03:36,810
+Wait, don't be impatient.
 
 37
-00:03:12,560 --> 00:03:15,440
-You should be ashamed
+00:03:45,960 --> 00:03:47,770
+Are you okay, Zak?
 
 38
-00:03:15,440 --> 00:03:18,000
-fighting where he just died.
+00:03:47,795 --> 00:03:52,080
+Well, things aren't
+going very well at home.
 
 39
-00:03:18,000 --> 00:03:21,000
-Never mind.
+00:03:52,640 --> 00:03:55,240
+
 
 40
-00:03:24,720 --> 00:03:30,880
-Mi. Everything is going as planned.
-
-41
-00:03:31,160 --> 00:03:34,160
-Let's get on with the action. Wait.
-
-42
-00:03:34,560 --> 00:03:37,560
-Don't be impatient.
-
-43
-00:03:45,960 --> 00:03:47,920
-Are you okay?
-
-44
-00:03:47,920 --> 00:03:52,080
-Well, things aren't going very well at home.
-45
-
-00:03:52,640 --> 00:03:55,240
 00:03:52,640 --> 00:03:55,240
 And it doesn't help much here either.
 
-46
+41
 00:03:55,240 --> 00:03:57,560
-That's not true.
+That's not true, Zak
 
-47
+42
 00:03:57,560 --> 00:03:59,920
-You're one of us.
+You're our Hakuru!
 
-48
-00:03:59,920 --> 00:04:03,120
+43
+00:03:59,920 --> 00:04:04,255
 Remember all the battles
-we've won.
+we've won. thanks to you.
 
-49
-00:04:03,120 --> 00:04:06,120
-thanks to you.
+44
+00:04:16,720 --> 00:04:21,099
+For the people of Masara,
+Sendokai is the most important thing
 
-50
-00:04:16,720 --> 00:04:18,160
-For the people of
-
-51
-00:04:18,160 --> 00:04:21,160
-beyond the horse, it's the most important thing.
-
-52
+45
 00:04:21,480 --> 00:04:24,480
 We always settle our
 disputes in the field.
 
-53
-00:04:25,640 --> 00:04:28,640
-Oh, really?
+46
+00:04:31,480 --> 00:04:33,380
+Zet-Sen Shot!
 
-54
-00:04:30,720 --> 00:04:31,480
-Yes, yes.
-
-55
-00:04:31,480 --> 00:04:34,480
-I referee the fights.
-
-56
-00:04:45,560 --> 00:04:47,040
+47
+00:04:45,560 --> 00:04:50,040
 As long as you keep fighting
-
-57
-00:04:47,040 --> 00:04:50,040
 among yourselves, you'll be easy prey.
 
-58
-00:04:50,760 --> 00:04:52,800
-You need a leader.
+48
+00:04:50,760 --> 00:04:57,591
+You need a leader. Someone
+you trust. Someone like Danima
 
-59
-00:04:52,800 --> 00:04:55,360
-Someone you trust.
+49
+00:04:59,440 --> 00:05:03,000
+Someone who unites
+you to defeat the Yaquis.
 
-60
-00:04:55,360 --> 00:04:58,360
-How does he encourage you?
+50
+00:05:03,360 --> 00:05:05,864
+I would be a good leader
 
-61
-00:04:59,440 --> 00:05:00,000
-Someone
+51
+00:05:05,889 --> 00:05:09,441
+You? A rock would be a better leader!
 
-62
-00:05:00,000 --> 00:05:03,000
-who unites you to defeat the Yaquis.
+52
+00:05:09,466 --> 00:05:11,935
+Or an energy sphere
 
-63
-00:05:03,360 --> 00:05:06,360
-Ah. I would be a good leader. You?
+53
+00:05:16,474 --> 00:05:18,240
+Sen-Do-Kai!
 
-64
-00:05:06,880 --> 00:05:08,080
-I would be a better leader.
+54
+00:05:20,680 --> 00:05:25,716
+You Masarians always resolve
+your differences with Sendokai, right?
 
-65
-00:05:08,080 --> 00:05:11,840
-A stone or an energy sphere?
+55
+00:05:28,760 --> 00:05:32,535
+Well, hold a Great Sendokai Tournament.
 
-66
-00:05:11,960 --> 00:05:18,240
-Me. Sandokan.
-
-67
-00:05:20,680 --> 00:05:23,040
-You Aryans always resolve
-
-68
-00:05:23,040 --> 00:05:26,040
-your differences sensibly. No.
-
-69
-00:05:28,760 --> 00:05:31,760
-Well, hold a great tournament.
-
-70
+56
 00:05:32,560 --> 00:05:35,560
 And let the winner be your leader.
 
-71
-00:05:37,720 --> 00:05:39,520
-And he's right.
+57
+00:05:38,331 --> 00:05:39,495
+He's right.
 
-72
-00:05:39,520 --> 00:05:42,400
-It's true. How did we not think of that before?
+58
+00:05:39,520 --> 00:05:40,435
+It's true.
 
-73
+59
+00:05:40,460 --> 00:05:42,375
+ How did we not think of that before?
+
+60
 00:05:42,400 --> 00:05:46,160
 I propose that the chiefs of the villages
 get together
 
-74
-00:05:46,360 --> 00:05:49,960
+61
+00:05:46,185 --> 00:05:49,785
 to decide the rules of this tournament.
 
-75
+62
 00:06:05,720 --> 00:06:07,600
 I don't like this.
 
-76
+63
 00:06:07,600 --> 00:06:10,600
 Maybe the tournament
 wasn't such a good idea.
 
-77
+64
 00:06:10,640 --> 00:06:12,280
 Of course it was.
 
-78
+65
 00:06:12,280 --> 00:06:15,840
-If you hadn't intervened,
-this would have ended very badly.
+If I hadn't intervened, this
+would have ended very badly.
 
-79
+66
 00:06:22,000 --> 00:06:24,800
 Inhabitants of Mazar.
 
-80
+67
 00:06:24,800 --> 00:06:26,800
 The village leaders.
 
-81
+68
 00:06:26,800 --> 00:06:30,000
 We have laid down the following rules.
 
-82
-00:06:32,240 --> 00:06:33,080
-Anyone
+69
+00:06:32,240 --> 00:06:40,087
+Anyone may participate in the great tournament
+of Sendokai whether born in Masada or not
 
-83
-00:06:33,080 --> 00:06:36,120
-may participate
-in the great tournament of Sendo.
+70
+00:06:41,160 --> 00:06:45,360
+As long as there is a period of
+mourning, No one will be allowed to fight.
 
-84
-00:06:36,120 --> 00:06:39,600
-Whether born in Masada or not,
+71
+00:06:48,160 --> 00:06:51,668
+At the request of the
+Kronians any warrior may
 
-85
-00:06:41,160 --> 00:06:43,440
-as long as there is a period of mourning.
+72
+00:06:51,692 --> 00:06:55,200
+be replaced by a
+representative of his choice.
 
-86
-00:06:43,440 --> 00:06:46,440
-No one will be allowed to fight.
-
-87
-00:06:48,160 --> 00:06:50,440
-At the request of the fans,
-
-88
-00:06:50,440 --> 00:06:55,200
-any warrior may be replaced
-by a representative of his choice.
-
-89
+73
 00:06:57,040 --> 00:07:00,520
-And finally, and most importantly.
+And finally, and most importantly
 
-90
-00:07:01,520 --> 00:07:04,000
-Who wins the tournament?
+74
+00:07:01,495 --> 00:07:03,975
+Whoever wins the tournament
 
-91
+75
 00:07:04,000 --> 00:07:06,880
-He will be recognized by all the people
+W be recognized by all the people
 
-92
+76
 00:07:06,880 --> 00:07:10,280
-as the new leader of Masada.
+as the new leader of Masara
 
-93
-00:07:10,960 --> 00:07:13,960
+77
+00:07:10,960 --> 00:07:11,954
 Very well.
 
-94
-00:07:14,080 --> 00:07:15,720
-It is hereby announced
+78
+00:07:14,080 --> 00:07:19,907
+And with that, let the first Great
+Sendokai Tournament begin!
 
-95
-00:07:15,720 --> 00:07:24,320
-the first great local tournament. From.
+79
+00:07:29,366 --> 00:07:30,235
+Now
 
-96
-00:07:29,280 --> 00:07:32,280
-Now, for
+80
+00:07:33,266 --> 00:07:37,284
+Who will participate in
+The Great Tournament.
 
-97
-00:07:33,200 --> 00:07:37,200
-which town will host the big tournament.
+81
+00:07:37,560 --> 00:07:40,540
+We, the Norkingos, will participate!
 
-98
-00:07:37,560 --> 00:07:40,640
-We, the northerners, will host it.
+82
+00:07:40,565 --> 00:07:41,977
+And the Deades
 
-99
-00:07:40,640 --> 00:07:43,600
-The Keys and the Rovers.
+83
+00:07:42,002 --> 00:07:43,576
+And the Drubers!
 
-100
-00:07:43,600 --> 00:07:46,600
-And the.
+84
+00:07:43,600 --> 00:07:45,243
+And the-
 
-101
+85
 00:07:57,160 --> 00:07:57,920
-Rápidos.
+Quickly!
 
-102
-00:07:57,920 --> 00:08:00,920
-Go for it.
+86
+00:07:57,920 --> 00:07:58,782
+Let's go for it!
 
-103
-00:08:03,800 --> 00:08:06,800
-Escudándose.
+87
+00:08:03,800 --> 00:08:05,790
+Goa-Sen Shield!
 
-104
-00:08:12,440 --> 00:08:15,440
-En el.
+88
+00:08:17,320 --> 00:08:18,649
+Zet-Sen....
 
-105
-00:08:17,320 --> 00:08:20,320
-Shot from.
+89
+00:08:23,110 --> 00:08:24,016
+But who?
 
-106
-00:08:22,280 --> 00:08:25,280
-Today. But who?
-
-107
+90
 00:08:28,960 --> 00:08:31,400
 That was close.
 
-108
-00:08:31,400 --> 00:08:34,400
-These guys are already very dangerous.
+91
+00:08:31,400 --> 00:08:35,423
+These guys are very dangerous.
 
-109
-00:08:36,000 --> 00:08:39,000
-Yes, God.
+92
+00:08:36,000 --> 00:08:37,587
+Sidmodius!
 
-110
-00:08:45,760 --> 00:08:49,320
-For. Now.
+93
+00:08:46,321 --> 00:08:48,024
+Please!
 
-111
+94
 00:08:50,000 --> 00:08:51,520
 What are you doing?
 
-112
-00:08:51,520 --> 00:08:54,600
-Is God responsible for the attacks?
+95
+00:08:51,520 --> 00:08:54,680
+It's Sidmodius! Theo ne
+responsible for the attacks!
 
-113
-00:08:56,880 --> 00:08:58,880
+96
+00:08:56,880 --> 00:09:01,800
 Don't be silly.
-
-114
-00:08:58,880 --> 00:09:01,800
 He just saved us.
 
-115
-00:09:01,800 --> 00:09:04,800
-Many.
-
-116
-00:09:09,280 --> 00:09:12,600
-You must have me confused with someone else.
-
-117
-00:09:13,160 --> 00:09:16,720
-I'm the male.
-
-118
-00:09:18,920 --> 00:09:23,080
-I'm also entering the big tournament.
-
-119
-00:09:24,040 --> 00:09:25,720
-So be it.
-
-120
-00:09:25,720 --> 00:09:28,280
-Damn you.
-
-121
-00:09:28,280 --> 00:09:30,280
-It was a great
-
-122
-00:09:30,280 --> 00:09:33,520
-idea to organize a big tournament.
-
-123
-00:09:34,080 --> 00:09:37,080
+97
+00:09:01,825 --> 00:09:03,454
 Thank you very much
 
-124
-00:09:37,880 --> 00:09:49,600
-a. You.
+98
+00:09:09,280 --> 00:09:13,135
+You must have me confused with someone else.
 
-125
+99
+00:09:13,160 --> 00:09:16,970
+I'm Baron Raknaki!
+
+100
+00:09:18,771 --> 00:09:23,259
+I'm also entering the big tournament.
+
+101
+00:09:24,149 --> 00:09:25,720
+So be it.
+
+102
+00:09:25,720 --> 00:09:27,126
+Damn you.
+
+103
+00:09:28,280 --> 00:09:33,520
+It was a great idea to
+organize a Great Tournament.
+
+104
+00:09:34,055 --> 00:09:37,313
+Thank you very much, Zak
+
+105
 00:09:50,520 --> 00:09:54,800
-By the mustache of the queen of hair
-and where am I?
+By the mustache of the queen of hair, where am I?
 
-126
+106
 00:09:55,320 --> 00:09:57,120
 I don't remember anything.
 
-127
-00:09:57,120
-The one who was missing.
+107
+00:09:57,229 --> 00:10:01,415
+The one who was missing. You're
+just in time for the great tournament.
 
-128
-00:09:58,720
-You're just in time for the big tournament.
-
-129
+108
 00:10:01,440 --> 00:10:02,880
-A tournament?
+ A tournament?
 
-130
+109
 00:10:02,880 --> 00:10:05,880
-Someone needs an announcer.
+Someone needs an announcer!
 
-131
-00:10:11,920 --> 00:10:14,920
-Bueno.
+110
+00:10:17,360 --> 00:10:18,909
+Tanpo!
 
-132
-00:10:17,360 --> 00:10:20,360
-Tampoco chicos.
+111
+00:10:18,934 --> 00:10:22,678
+Guys, we have some bad news.
 
-133
-00:10:20,480 --> 00:10:23,480
-We have some bad news.
+112
+00:10:29,339 --> 00:10:32,015
+We've been traveling back in time?
 
-134
-00:10:24,600 --> 00:10:31,520
-No. We've been traveling back in time.
-
-135
-00:10:32,040 --> 00:10:35,040
+113
+00:10:32,040 --> 00:10:35,255
 The history teacher is going to freak out
 when I tell him what it's like.
 
-136
-00:10:35,280 --> 00:10:38,760
-Now we have to figure out
-how he plans to turn
+114
+00:10:35,280 --> 00:10:41,775
+Now we have to figure out how
+Sidmodius plans to turn into the Great Zorn
 
-137
-00:10:38,760 --> 00:10:41,760
-without Mobius in the Great Storm.
-
-138
+115
 00:10:41,800 --> 00:10:44,160
 I'm afraid we already know.
 
-139
-00:10:44,160 --> 00:10:48,000
+116
+00:10:44,160 --> 00:10:47,407
 We've just announced
-a big hockey tournament that.
+a Great Sendokai tournament
 
-140
-00:10:49,600 --> 00:10:50,640
-All he has to do is
+117
+00:10:47,662 --> 00:10:49,576
+What?
 
-141
-00:10:50,640 --> 00:10:53,640
-winning it to seize power.
+118
+00:10:49,600 --> 00:10:53,640
+All he has to do to
+get power is to win
 
-142
+119
 00:10:53,720 --> 00:10:56,720
 It's the worst thing that could happen.
 
-143
-00:11:00,000 --> 00:11:03,000
-And here it is.
+120
+00:10:58,867 --> 00:11:02,554
+Thank you very much, Zak
 
-144
+121
 00:11:07,920 --> 00:11:11,080
 Then there's only one solution.
 
-145
-00:11:12,400 --> 00:11:14,400
-You'll have to win
+122
+00:11:12,400 --> 00:11:19,116
+You'll have to win the first Great
+Sendokai tournament in history
 
-146
-00:11:14,400 --> 00:11:17,760
-the first major hockey tournament
-
-147
-00:11:17,760 --> 00:11:20,760
-in history.
-
-148
-00:11:21,960 --> 00:11:24,960
+123
+00:11:21,929 --> 00:11:24,960
 I'll sign us up.
 
-149
+124
 00:11:26,600 --> 00:11:27,840
-Pobreza.
+Poor Zak
 
-150
+125
 00:11:27,840 --> 00:11:28,960
 ¿Qué ocurre?
 
-151
+126
 00:11:28,960 --> 00:11:31,800
-First, he chose her a little
-by playing the cradle.
+First, he failed as Hakuru
 
-152
+127
 00:11:31,800 --> 00:11:34,720
-Then he let her slip away to the rhythm of his.
+Then he let Sidmodius get away
 
-153
+128
 00:11:34,720 --> 00:11:37,440
-Things aren't
-much better at home either.
+Things aren't much
+better at home either.
 
-154
+129
 00:11:37,440 --> 00:11:40,640
 And now he's the one who's caused
-the big tournament.
+the great tournament.
 
-155
-00:11:41,800 --> 00:11:44,400
-By the way, you don't sign up
+130
+00:11:41,831 --> 00:11:44,878
+By the way, registration is not done here
 
-156
-00:11:44,400 --> 00:11:47,400
-there.
-
-157
+131
 00:11:47,480 --> 00:11:50,480
-And his slider?
+Where's his bike?
 
-158
-00:11:53,600 --> 00:11:56,600
-There's a note.
+132
+00:11:53,600 --> 00:11:54,683
+There's a note!
 
-159
-00:11:57,400 --> 00:12:01,240
+133
+00:11:57,400 --> 00:12:02,335
 Dear friends, it's all my fault.
 
-160
+134
 00:12:02,360 --> 00:12:05,240
-You deserve a better course.
+You deserve a better Hakuru
 
-161
-00:12:05,240 --> 00:12:08,400
+135
+00:12:05,240 --> 00:12:08,761
 That's why I've decided to leave the team
 
-162
-00:12:08,760 --> 00:12:11,760
+136
+00:12:08,786 --> 00:12:12,135
 and not come home.
 
-163
-00:12:12,160 --> 00:12:15,160
+137
+00:12:12,160 --> 00:12:14,063
 I'll never forget you.
 
-164
-00:12:17,120 --> 00:12:17,400
-Zack.
+138
+00:12:17,120 --> 00:12:17,506
+Zak
+
