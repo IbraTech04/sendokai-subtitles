@@ -721,7 +721,7 @@ Maybe... but you're still alone.
 
 168
 00:14:21,805 --> 00:14:24,184
-No! What are you doing?!!!
+No! What are you doing?!
 
 169
 00:14:29,453 --> 00:14:31,634
@@ -874,7 +874,7 @@ Coming up!
 
 203
 00:17:38,259 --> 00:17:40,187
--Gotcha!!
+-Gotcha!
 -Check us out!
 
 204

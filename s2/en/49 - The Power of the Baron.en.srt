@@ -92,7 +92,7 @@ Go-Sen Tornado!
 
 22
 00:04:02,660 --> 00:04:05,080
-The 2 teams are very even!!!
+The 2 teams are very even!
 
 23
 00:04:10,146 --> 00:04:15,177
@@ -203,7 +203,7 @@ save the world anymore!
 47
 00:07:37,180 --> 00:07:39,280
 We have to go out
-and fight with them!!!
+and fight with them!
 
 48
 00:07:39,520 --> 00:07:41,580
