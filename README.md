@@ -8,7 +8,6 @@
   [![GitHub stars](https://img.shields.io/github/stars/ibratech04/sendokai-subtitles?style=flat&logo=github)](https://github.com/ibratech04/sendokai-subtitles/stargazers)
   [![GitHub forks](https://img.shields.io/github/forks/ibratech04/sendokai-subtitles?style=flat&logo=github)](https://github.com/ibratech04/sendokai-subtitles/network)
   [![GitHub issues](https://img.shields.io/github/issues/ibratech04/sendokai-subtitles?style=flat&logo=github)](https://github.com/ibratech04/sendokai-subtitles/issues)
-  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
   
 </div>
 
@@ -103,15 +102,6 @@ It is done, Senkuns.
 | [Sengate - English Subs](./sengate/en/Sendokai%20Champions%20-%20Sengate.en.srt) | English  | 🟩     | Someone at Kotoc, probably |
 | [Sengate - Arabic Subs](./sengate/ar/Sendokai%20Champions%20-%20Sengate.ar.srt)  | Arabic   | 🟦     | Ibrahim Chehab             |
 
-
----
-
-## 🤝 How to Contribute
-
-> 👋 Want to help bring Sendokai Champions to English-speaking audiences?
-
-See **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed information on how to contribute to this project.
-
 ---
 
 ## ⚡ BONUS! Subly Integration
@@ -124,23 +114,23 @@ As alluded to in the [**Subly**](https://github.com/IbraTech04/subly) repository
 
 ## ⚠️ Disclaimer
 
-This project is **not** affiliated with Kotoc Productions, RTVE, Planeta Junior, Cartoon Network, or any other official entities associated with Sendokai Champions. It is a fan-driven effort to make the show accessible to English-speaking audiences.
+This project is **not affiliated with, sponsored by, or endorsed by** Kotoc Productions, RTVE, Planeta Junior, Cartoon Network, or any other official entities associated with *Sendokai Champions*. **All rights to the original show (video, characters, scripts, and audio) remain with their respective owners.**
 
-## 📜 License
+The subtitles in this repository are **fan-made translations** of the original Spanish dialogue. They are shared strictly for **non-commercial, educational, archival, and accessibility purposes**.
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). You are free to share and adapt the subtitles, but please give appropriate credit and do not use them for commercial purposes. For more information, see the [LICENSE](LICENSE) file.
+**No original video, audio, or official subtitle content is included or hosted here.**
+
+## 🛑 Legal Notice & Takedown Policy
+
+These subtitle files are considered **derivative works**. They were created independently by volunteers and do not replicate or reuse official subtitles. They are not licensed for redistribution or commercial use.
+
+If you are a copyright holder and believe your rights have been infringed, please open an issue or email the repository owner. We will comply promptly with any valid takedown request.
 
 ---
 
 <div align="center">
-  
-**Made with ❤️ by the Sendokai Champions fan community**
-
-[🐛 Report Subtitling Issue](https://github.com/IbraTech04/sendokai-subtitles/issues) • [💬 Discussions](https://github.com/IbraTech04/sendokai-subtitles/discussions)
-
----
-<div align="center">
-
-<a href="https://github.com/IbraTech04/sendokai-subtitles">SendokaiSubtitles</a> © 2025 by <a href="https://github.com/IbraTech04">Ibrahim Chehab</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-
+  <strong>Made with ❤️ by the Sendokai Champions fan community</strong><br>
+  <a href="https://github.com/IbraTech04/sendokai-subtitles/issues">🐛 Report Subtitling Issue</a> • 
+  <a href="https://github.com/IbraTech04/sendokai-subtitles/discussions">💬 Discussions</a><br><br>
+  <em>This repository is a community-driven project and does not claim any legal rights to the original show.</em>
 </div>
