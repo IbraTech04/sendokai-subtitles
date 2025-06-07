@@ -34,11 +34,11 @@ This project aims to recreate the English subtitles for the entire series, so th
 
 ## Current Progress
 
-~~Currently, I'm working on creating English Subtitles based on the Spanish Dub for Season 2. Once I finish that, I'm considering creating Arabic subtitles for the redacted scenes in the Arabic Dub (Many of Zak, Cloe, and Lon's Scenes were redacted in the Arabic Dub due to them being considered inappropriate for the region). If you're interested in helping out, feel free to claim an episode in the `Issues` tab!~~
+As of **June 4th 2025 at 8:20PM EST**, the English subtitles for **Season 2** are complete in their entirety! The Arabic subtitles for **Sengate** are also complete (pending review), with the English Subtitles being ripped and archived on this repository from the official YouTube video.
 
-As of **June 4th 2025 at 8:20PM EST**, the English subtitles for **Season 2** are complete in their entirety! The Arabic subtitles for **Sengate** are also complete, with the English Subtitles being ripped and archived on this repository from the official YouTube video.
+You can now use [**Subly**](https://github.com/IbraTech04/subly) to inject these subtitles into the episodes, allowing you to watch them with English subtitles!
 
-It is done, Senkuns. 
+It is done, Senkuns.
 
 ### Status Legend
 
